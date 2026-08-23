@@ -1,0 +1,769 @@
+week,week_start,product,city,units_sold,revenue_inr
+W1,2026-05-01,Cloud Sneaker - Grey,Delhi,19,34181
+W1,2026-05-01,Cloud Sneaker - Grey,Mumbai,23,45977
+W1,2026-05-01,Cloud Sneaker - Grey,Bengaluru,21,41979
+W1,2026-05-01,Cloud Sneaker - Grey,Pune,16,36784
+W1,2026-05-01,Cloud Sneaker - Grey,Hyderabad,24,43176
+W1,2026-05-01,Cloud Sneaker - Grey,Chennai,13,29887
+W1,2026-05-01,Cloud Sneaker - Grey,Jaipur,22,43978
+W1,2026-05-01,Cloud Sneaker - Grey,Ahmedabad,17,39083
+W1,2026-05-01,Cloud Sneaker - Black,Delhi,24,55176
+W1,2026-05-01,Cloud Sneaker - Black,Mumbai,22,39578
+W1,2026-05-01,Cloud Sneaker - Black,Bengaluru,12,21588
+W1,2026-05-01,Cloud Sneaker - Black,Pune,21,48279
+W1,2026-05-01,Cloud Sneaker - Black,Hyderabad,24,47976
+W1,2026-05-01,Cloud Sneaker - Black,Chennai,12,21588
+W1,2026-05-01,Cloud Sneaker - Black,Jaipur,13,23387
+W1,2026-05-01,Cloud Sneaker - Black,Ahmedabad,24,55176
+W1,2026-05-01,Trail Runner - Olive,Delhi,17,33983
+W1,2026-05-01,Trail Runner - Olive,Mumbai,18,41382
+W1,2026-05-01,Trail Runner - Olive,Bengaluru,12,27588
+W1,2026-05-01,Trail Runner - Olive,Pune,14,32186
+W1,2026-05-01,Trail Runner - Olive,Hyderabad,19,37981
+W1,2026-05-01,Trail Runner - Olive,Chennai,17,33983
+W1,2026-05-01,Trail Runner - Olive,Jaipur,24,43176
+W1,2026-05-01,Trail Runner - Olive,Ahmedabad,21,37779
+W1,2026-05-01,Classic Slip-On - White,Delhi,20,39980
+W1,2026-05-01,Classic Slip-On - White,Mumbai,18,35982
+W1,2026-05-01,Classic Slip-On - White,Bengaluru,22,43978
+W1,2026-05-01,Classic Slip-On - White,Pune,15,26985
+W1,2026-05-01,Classic Slip-On - White,Hyderabad,12,27588
+W1,2026-05-01,Classic Slip-On - White,Chennai,14,27986
+W1,2026-05-01,Classic Slip-On - White,Jaipur,20,39980
+W1,2026-05-01,Classic Slip-On - White,Ahmedabad,20,35980
+W1,2026-05-01,Everyday Loafer - Tan,Delhi,16,31984
+W1,2026-05-01,Everyday Loafer - Tan,Mumbai,23,45977
+W1,2026-05-01,Everyday Loafer - Tan,Bengaluru,15,34485
+W1,2026-05-01,Everyday Loafer - Tan,Pune,16,36784
+W1,2026-05-01,Everyday Loafer - Tan,Hyderabad,19,34181
+W1,2026-05-01,Everyday Loafer - Tan,Chennai,13,23387
+W1,2026-05-01,Everyday Loafer - Tan,Jaipur,13,25987
+W1,2026-05-01,Everyday Loafer - Tan,Ahmedabad,14,32186
+W1,2026-05-01,Recycled Runner - Navy,Delhi,19,34181
+W1,2026-05-01,Recycled Runner - Navy,Mumbai,24,55176
+W1,2026-05-01,Recycled Runner - Navy,Bengaluru,17,39083
+W1,2026-05-01,Recycled Runner - Navy,Pune,17,39083
+W1,2026-05-01,Recycled Runner - Navy,Hyderabad,13,29887
+W1,2026-05-01,Recycled Runner - Navy,Chennai,20,39980
+W1,2026-05-01,Recycled Runner - Navy,Jaipur,16,28784
+W1,2026-05-01,Recycled Runner - Navy,Ahmedabad,23,52877
+W1,2026-05-01,Wool Blend Sneaker - Charcoal,Delhi,23,52877
+W1,2026-05-01,Wool Blend Sneaker - Charcoal,Mumbai,14,27986
+W1,2026-05-01,Wool Blend Sneaker - Charcoal,Bengaluru,20,35980
+W1,2026-05-01,Wool Blend Sneaker - Charcoal,Pune,13,23387
+W1,2026-05-01,Wool Blend Sneaker - Charcoal,Hyderabad,24,43176
+W1,2026-05-01,Wool Blend Sneaker - Charcoal,Chennai,15,29985
+W1,2026-05-01,Wool Blend Sneaker - Charcoal,Jaipur,12,23988
+W1,2026-05-01,Wool Blend Sneaker - Charcoal,Ahmedabad,20,45980
+W1,2026-05-01,Kids Comfort Shoe - Blue,Delhi,17,33983
+W1,2026-05-01,Kids Comfort Shoe - Blue,Mumbai,24,55176
+W1,2026-05-01,Kids Comfort Shoe - Blue,Bengaluru,14,32186
+W1,2026-05-01,Kids Comfort Shoe - Blue,Pune,13,23387
+W1,2026-05-01,Kids Comfort Shoe - Blue,Hyderabad,16,31984
+W1,2026-05-01,Kids Comfort Shoe - Blue,Chennai,23,52877
+W1,2026-05-01,Kids Comfort Shoe - Blue,Jaipur,19,43681
+W1,2026-05-01,Kids Comfort Shoe - Blue,Ahmedabad,18,35982
+W2,2026-05-08,Cloud Sneaker - Grey,Delhi,14,32186
+W2,2026-05-08,Cloud Sneaker - Grey,Mumbai,21,37779
+W2,2026-05-08,Cloud Sneaker - Grey,Bengaluru,14,32186
+W2,2026-05-08,Cloud Sneaker - Grey,Pune,21,48279
+W2,2026-05-08,Cloud Sneaker - Grey,Hyderabad,21,41979
+W2,2026-05-08,Cloud Sneaker - Grey,Chennai,21,37779
+W2,2026-05-08,Cloud Sneaker - Grey,Jaipur,12,21588
+W2,2026-05-08,Cloud Sneaker - Grey,Ahmedabad,12,27588
+W2,2026-05-08,Cloud Sneaker - Black,Delhi,24,55176
+W2,2026-05-08,Cloud Sneaker - Black,Mumbai,16,36784
+W2,2026-05-08,Cloud Sneaker - Black,Bengaluru,15,34485
+W2,2026-05-08,Cloud Sneaker - Black,Pune,18,41382
+W2,2026-05-08,Cloud Sneaker - Black,Hyderabad,22,39578
+W2,2026-05-08,Cloud Sneaker - Black,Chennai,19,43681
+W2,2026-05-08,Cloud Sneaker - Black,Jaipur,20,39980
+W2,2026-05-08,Cloud Sneaker - Black,Ahmedabad,22,43978
+W2,2026-05-08,Trail Runner - Olive,Delhi,19,34181
+W2,2026-05-08,Trail Runner - Olive,Mumbai,24,55176
+W2,2026-05-08,Trail Runner - Olive,Bengaluru,18,35982
+W2,2026-05-08,Trail Runner - Olive,Pune,19,34181
+W2,2026-05-08,Trail Runner - Olive,Hyderabad,23,41377
+W2,2026-05-08,Trail Runner - Olive,Chennai,14,27986
+W2,2026-05-08,Trail Runner - Olive,Jaipur,18,35982
+W2,2026-05-08,Trail Runner - Olive,Ahmedabad,19,34181
+W2,2026-05-08,Classic Slip-On - White,Delhi,17,39083
+W2,2026-05-08,Classic Slip-On - White,Mumbai,14,27986
+W2,2026-05-08,Classic Slip-On - White,Bengaluru,23,45977
+W2,2026-05-08,Classic Slip-On - White,Pune,23,45977
+W2,2026-05-08,Classic Slip-On - White,Hyderabad,18,32382
+W2,2026-05-08,Classic Slip-On - White,Chennai,24,47976
+W2,2026-05-08,Classic Slip-On - White,Jaipur,20,45980
+W2,2026-05-08,Classic Slip-On - White,Ahmedabad,13,25987
+W2,2026-05-08,Everyday Loafer - Tan,Delhi,15,29985
+W2,2026-05-08,Everyday Loafer - Tan,Mumbai,13,25987
+W2,2026-05-08,Everyday Loafer - Tan,Bengaluru,19,34181
+W2,2026-05-08,Everyday Loafer - Tan,Pune,14,25186
+W2,2026-05-08,Everyday Loafer - Tan,Hyderabad,12,23988
+W2,2026-05-08,Everyday Loafer - Tan,Chennai,18,41382
+W2,2026-05-08,Everyday Loafer - Tan,Jaipur,18,32382
+W2,2026-05-08,Everyday Loafer - Tan,Ahmedabad,14,27986
+W2,2026-05-08,Recycled Runner - Navy,Delhi,21,48279
+W2,2026-05-08,Recycled Runner - Navy,Mumbai,17,30583
+W2,2026-05-08,Recycled Runner - Navy,Bengaluru,24,43176
+W2,2026-05-08,Recycled Runner - Navy,Pune,19,43681
+W2,2026-05-08,Recycled Runner - Navy,Hyderabad,19,37981
+W2,2026-05-08,Recycled Runner - Navy,Chennai,16,31984
+W2,2026-05-08,Recycled Runner - Navy,Jaipur,12,21588
+W2,2026-05-08,Recycled Runner - Navy,Ahmedabad,18,41382
+W2,2026-05-08,Wool Blend Sneaker - Charcoal,Delhi,19,34181
+W2,2026-05-08,Wool Blend Sneaker - Charcoal,Mumbai,15,34485
+W2,2026-05-08,Wool Blend Sneaker - Charcoal,Bengaluru,17,30583
+W2,2026-05-08,Wool Blend Sneaker - Charcoal,Pune,12,23988
+W2,2026-05-08,Wool Blend Sneaker - Charcoal,Hyderabad,19,43681
+W2,2026-05-08,Wool Blend Sneaker - Charcoal,Chennai,22,50578
+W2,2026-05-08,Wool Blend Sneaker - Charcoal,Jaipur,19,37981
+W2,2026-05-08,Wool Blend Sneaker - Charcoal,Ahmedabad,20,35980
+W2,2026-05-08,Kids Comfort Shoe - Blue,Delhi,13,25987
+W2,2026-05-08,Kids Comfort Shoe - Blue,Mumbai,14,27986
+W2,2026-05-08,Kids Comfort Shoe - Blue,Bengaluru,23,45977
+W2,2026-05-08,Kids Comfort Shoe - Blue,Pune,24,47976
+W2,2026-05-08,Kids Comfort Shoe - Blue,Hyderabad,17,30583
+W2,2026-05-08,Kids Comfort Shoe - Blue,Chennai,18,32382
+W2,2026-05-08,Kids Comfort Shoe - Blue,Jaipur,21,48279
+W2,2026-05-08,Kids Comfort Shoe - Blue,Ahmedabad,15,29985
+W3,2026-05-15,Cloud Sneaker - Grey,Delhi,23,45977
+W3,2026-05-15,Cloud Sneaker - Grey,Mumbai,21,41979
+W3,2026-05-15,Cloud Sneaker - Grey,Bengaluru,20,45980
+W3,2026-05-15,Cloud Sneaker - Grey,Pune,20,39980
+W3,2026-05-15,Cloud Sneaker - Grey,Hyderabad,23,52877
+W3,2026-05-15,Cloud Sneaker - Grey,Chennai,16,31984
+W3,2026-05-15,Cloud Sneaker - Grey,Jaipur,12,23988
+W3,2026-05-15,Cloud Sneaker - Grey,Ahmedabad,17,39083
+W3,2026-05-15,Cloud Sneaker - Black,Delhi,13,25987
+W3,2026-05-15,Cloud Sneaker - Black,Mumbai,21,41979
+W3,2026-05-15,Cloud Sneaker - Black,Bengaluru,24,55176
+W3,2026-05-15,Cloud Sneaker - Black,Pune,23,52877
+W3,2026-05-15,Cloud Sneaker - Black,Hyderabad,12,27588
+W3,2026-05-15,Cloud Sneaker - Black,Chennai,19,37981
+W3,2026-05-15,Cloud Sneaker - Black,Jaipur,22,50578
+W3,2026-05-15,Cloud Sneaker - Black,Ahmedabad,21,37779
+W3,2026-05-15,Trail Runner - Olive,Delhi,23,41377
+W3,2026-05-15,Trail Runner - Olive,Mumbai,21,41979
+W3,2026-05-15,Trail Runner - Olive,Bengaluru,14,32186
+W3,2026-05-15,Trail Runner - Olive,Pune,22,50578
+W3,2026-05-15,Trail Runner - Olive,Hyderabad,21,41979
+W3,2026-05-15,Trail Runner - Olive,Chennai,14,32186
+W3,2026-05-15,Trail Runner - Olive,Jaipur,15,26985
+W3,2026-05-15,Trail Runner - Olive,Ahmedabad,21,48279
+W3,2026-05-15,Classic Slip-On - White,Delhi,13,23387
+W3,2026-05-15,Classic Slip-On - White,Mumbai,12,23988
+W3,2026-05-15,Classic Slip-On - White,Bengaluru,17,33983
+W3,2026-05-15,Classic Slip-On - White,Pune,14,27986
+W3,2026-05-15,Classic Slip-On - White,Hyderabad,23,41377
+W3,2026-05-15,Classic Slip-On - White,Chennai,18,41382
+W3,2026-05-15,Classic Slip-On - White,Jaipur,24,55176
+W3,2026-05-15,Classic Slip-On - White,Ahmedabad,19,43681
+W3,2026-05-15,Everyday Loafer - Tan,Delhi,23,41377
+W3,2026-05-15,Everyday Loafer - Tan,Mumbai,23,41377
+W3,2026-05-15,Everyday Loafer - Tan,Bengaluru,20,35980
+W3,2026-05-15,Everyday Loafer - Tan,Pune,20,39980
+W3,2026-05-15,Everyday Loafer - Tan,Hyderabad,22,43978
+W3,2026-05-15,Everyday Loafer - Tan,Chennai,20,39980
+W3,2026-05-15,Everyday Loafer - Tan,Jaipur,17,30583
+W3,2026-05-15,Everyday Loafer - Tan,Ahmedabad,19,43681
+W3,2026-05-15,Recycled Runner - Navy,Delhi,17,39083
+W3,2026-05-15,Recycled Runner - Navy,Mumbai,17,39083
+W3,2026-05-15,Recycled Runner - Navy,Bengaluru,24,55176
+W3,2026-05-15,Recycled Runner - Navy,Pune,22,50578
+W3,2026-05-15,Recycled Runner - Navy,Hyderabad,24,55176
+W3,2026-05-15,Recycled Runner - Navy,Chennai,16,36784
+W3,2026-05-15,Recycled Runner - Navy,Jaipur,19,34181
+W3,2026-05-15,Recycled Runner - Navy,Ahmedabad,15,29985
+W3,2026-05-15,Wool Blend Sneaker - Charcoal,Delhi,20,39980
+W3,2026-05-15,Wool Blend Sneaker - Charcoal,Mumbai,15,29985
+W3,2026-05-15,Wool Blend Sneaker - Charcoal,Bengaluru,24,47976
+W3,2026-05-15,Wool Blend Sneaker - Charcoal,Pune,23,41377
+W3,2026-05-15,Wool Blend Sneaker - Charcoal,Hyderabad,23,52877
+W3,2026-05-15,Wool Blend Sneaker - Charcoal,Chennai,19,37981
+W3,2026-05-15,Wool Blend Sneaker - Charcoal,Jaipur,19,37981
+W3,2026-05-15,Wool Blend Sneaker - Charcoal,Ahmedabad,20,45980
+W3,2026-05-15,Kids Comfort Shoe - Blue,Delhi,16,31984
+W3,2026-05-15,Kids Comfort Shoe - Blue,Mumbai,13,29887
+W3,2026-05-15,Kids Comfort Shoe - Blue,Bengaluru,22,50578
+W3,2026-05-15,Kids Comfort Shoe - Blue,Pune,18,35982
+W3,2026-05-15,Kids Comfort Shoe - Blue,Hyderabad,17,30583
+W3,2026-05-15,Kids Comfort Shoe - Blue,Chennai,16,28784
+W3,2026-05-15,Kids Comfort Shoe - Blue,Jaipur,16,36784
+W3,2026-05-15,Kids Comfort Shoe - Blue,Ahmedabad,13,25987
+W4,2026-05-22,Cloud Sneaker - Grey,Delhi,23,41377
+W4,2026-05-22,Cloud Sneaker - Grey,Mumbai,14,27986
+W4,2026-05-22,Cloud Sneaker - Grey,Bengaluru,14,25186
+W4,2026-05-22,Cloud Sneaker - Grey,Pune,18,35982
+W4,2026-05-22,Cloud Sneaker - Grey,Hyderabad,14,32186
+W4,2026-05-22,Cloud Sneaker - Grey,Chennai,16,28784
+W4,2026-05-22,Cloud Sneaker - Grey,Jaipur,12,23988
+W4,2026-05-22,Cloud Sneaker - Grey,Ahmedabad,21,48279
+W4,2026-05-22,Cloud Sneaker - Black,Delhi,13,25987
+W4,2026-05-22,Cloud Sneaker - Black,Mumbai,16,31984
+W4,2026-05-22,Cloud Sneaker - Black,Bengaluru,22,50578
+W4,2026-05-22,Cloud Sneaker - Black,Pune,20,39980
+W4,2026-05-22,Cloud Sneaker - Black,Hyderabad,14,32186
+W4,2026-05-22,Cloud Sneaker - Black,Chennai,19,37981
+W4,2026-05-22,Cloud Sneaker - Black,Jaipur,15,26985
+W4,2026-05-22,Cloud Sneaker - Black,Ahmedabad,17,30583
+W4,2026-05-22,Trail Runner - Olive,Delhi,23,45977
+W4,2026-05-22,Trail Runner - Olive,Mumbai,22,43978
+W4,2026-05-22,Trail Runner - Olive,Bengaluru,23,41377
+W4,2026-05-22,Trail Runner - Olive,Pune,12,27588
+W4,2026-05-22,Trail Runner - Olive,Hyderabad,17,33983
+W4,2026-05-22,Trail Runner - Olive,Chennai,21,48279
+W4,2026-05-22,Trail Runner - Olive,Jaipur,24,43176
+W4,2026-05-22,Trail Runner - Olive,Ahmedabad,14,32186
+W4,2026-05-22,Classic Slip-On - White,Delhi,22,43978
+W4,2026-05-22,Classic Slip-On - White,Mumbai,18,41382
+W4,2026-05-22,Classic Slip-On - White,Bengaluru,17,30583
+W4,2026-05-22,Classic Slip-On - White,Pune,18,41382
+W4,2026-05-22,Classic Slip-On - White,Hyderabad,13,23387
+W4,2026-05-22,Classic Slip-On - White,Chennai,14,27986
+W4,2026-05-22,Classic Slip-On - White,Jaipur,17,30583
+W4,2026-05-22,Classic Slip-On - White,Ahmedabad,12,23988
+W4,2026-05-22,Everyday Loafer - Tan,Delhi,18,32382
+W4,2026-05-22,Everyday Loafer - Tan,Mumbai,19,37981
+W4,2026-05-22,Everyday Loafer - Tan,Bengaluru,17,33983
+W4,2026-05-22,Everyday Loafer - Tan,Pune,21,48279
+W4,2026-05-22,Everyday Loafer - Tan,Hyderabad,21,37779
+W4,2026-05-22,Everyday Loafer - Tan,Chennai,16,36784
+W4,2026-05-22,Everyday Loafer - Tan,Jaipur,17,39083
+W4,2026-05-22,Everyday Loafer - Tan,Ahmedabad,15,26985
+W4,2026-05-22,Recycled Runner - Navy,Delhi,22,39578
+W4,2026-05-22,Recycled Runner - Navy,Mumbai,19,37981
+W4,2026-05-22,Recycled Runner - Navy,Bengaluru,14,27986
+W4,2026-05-22,Recycled Runner - Navy,Pune,22,50578
+W4,2026-05-22,Recycled Runner - Navy,Hyderabad,23,45977
+W4,2026-05-22,Recycled Runner - Navy,Chennai,23,41377
+W4,2026-05-22,Recycled Runner - Navy,Jaipur,22,43978
+W4,2026-05-22,Recycled Runner - Navy,Ahmedabad,17,39083
+W4,2026-05-22,Wool Blend Sneaker - Charcoal,Delhi,15,26985
+W4,2026-05-22,Wool Blend Sneaker - Charcoal,Mumbai,14,27986
+W4,2026-05-22,Wool Blend Sneaker - Charcoal,Bengaluru,14,27986
+W4,2026-05-22,Wool Blend Sneaker - Charcoal,Pune,23,52877
+W4,2026-05-22,Wool Blend Sneaker - Charcoal,Hyderabad,17,33983
+W4,2026-05-22,Wool Blend Sneaker - Charcoal,Chennai,23,52877
+W4,2026-05-22,Wool Blend Sneaker - Charcoal,Jaipur,19,43681
+W4,2026-05-22,Wool Blend Sneaker - Charcoal,Ahmedabad,24,55176
+W4,2026-05-22,Kids Comfort Shoe - Blue,Delhi,15,26985
+W4,2026-05-22,Kids Comfort Shoe - Blue,Mumbai,22,50578
+W4,2026-05-22,Kids Comfort Shoe - Blue,Bengaluru,24,43176
+W4,2026-05-22,Kids Comfort Shoe - Blue,Pune,20,39980
+W4,2026-05-22,Kids Comfort Shoe - Blue,Hyderabad,20,45980
+W4,2026-05-22,Kids Comfort Shoe - Blue,Chennai,17,30583
+W4,2026-05-22,Kids Comfort Shoe - Blue,Jaipur,21,37779
+W4,2026-05-22,Kids Comfort Shoe - Blue,Ahmedabad,12,27588
+W5,2026-05-29,Cloud Sneaker - Grey,Delhi,12,21588
+W5,2026-05-29,Cloud Sneaker - Grey,Mumbai,19,34181
+W5,2026-05-29,Cloud Sneaker - Grey,Bengaluru,16,31984
+W5,2026-05-29,Cloud Sneaker - Grey,Pune,14,25186
+W5,2026-05-29,Cloud Sneaker - Grey,Hyderabad,24,55176
+W5,2026-05-29,Cloud Sneaker - Grey,Chennai,23,52877
+W5,2026-05-29,Cloud Sneaker - Grey,Jaipur,18,35982
+W5,2026-05-29,Cloud Sneaker - Grey,Ahmedabad,18,35982
+W5,2026-05-29,Cloud Sneaker - Black,Delhi,18,35982
+W5,2026-05-29,Cloud Sneaker - Black,Mumbai,13,29887
+W5,2026-05-29,Cloud Sneaker - Black,Bengaluru,22,50578
+W5,2026-05-29,Cloud Sneaker - Black,Pune,14,32186
+W5,2026-05-29,Cloud Sneaker - Black,Hyderabad,17,30583
+W5,2026-05-29,Cloud Sneaker - Black,Chennai,14,32186
+W5,2026-05-29,Cloud Sneaker - Black,Jaipur,18,41382
+W5,2026-05-29,Cloud Sneaker - Black,Ahmedabad,14,32186
+W5,2026-05-29,Trail Runner - Olive,Delhi,15,26985
+W5,2026-05-29,Trail Runner - Olive,Mumbai,24,43176
+W5,2026-05-29,Trail Runner - Olive,Bengaluru,16,31984
+W5,2026-05-29,Trail Runner - Olive,Pune,22,50578
+W5,2026-05-29,Trail Runner - Olive,Hyderabad,20,39980
+W5,2026-05-29,Trail Runner - Olive,Chennai,20,39980
+W5,2026-05-29,Trail Runner - Olive,Jaipur,15,26985
+W5,2026-05-29,Trail Runner - Olive,Ahmedabad,19,37981
+W5,2026-05-29,Classic Slip-On - White,Delhi,14,27986
+W5,2026-05-29,Classic Slip-On - White,Mumbai,15,34485
+W5,2026-05-29,Classic Slip-On - White,Bengaluru,24,43176
+W5,2026-05-29,Classic Slip-On - White,Pune,12,27588
+W5,2026-05-29,Classic Slip-On - White,Hyderabad,18,41382
+W5,2026-05-29,Classic Slip-On - White,Chennai,24,43176
+W5,2026-05-29,Classic Slip-On - White,Jaipur,15,26985
+W5,2026-05-29,Classic Slip-On - White,Ahmedabad,13,23387
+W5,2026-05-29,Everyday Loafer - Tan,Delhi,21,37779
+W5,2026-05-29,Everyday Loafer - Tan,Mumbai,19,43681
+W5,2026-05-29,Everyday Loafer - Tan,Bengaluru,22,50578
+W5,2026-05-29,Everyday Loafer - Tan,Pune,12,21588
+W5,2026-05-29,Everyday Loafer - Tan,Hyderabad,23,41377
+W5,2026-05-29,Everyday Loafer - Tan,Chennai,18,35982
+W5,2026-05-29,Everyday Loafer - Tan,Jaipur,15,34485
+W5,2026-05-29,Everyday Loafer - Tan,Ahmedabad,15,26985
+W5,2026-05-29,Recycled Runner - Navy,Delhi,14,32186
+W5,2026-05-29,Recycled Runner - Navy,Mumbai,16,28784
+W5,2026-05-29,Recycled Runner - Navy,Bengaluru,23,52877
+W5,2026-05-29,Recycled Runner - Navy,Pune,17,39083
+W5,2026-05-29,Recycled Runner - Navy,Hyderabad,21,48279
+W5,2026-05-29,Recycled Runner - Navy,Chennai,17,30583
+W5,2026-05-29,Recycled Runner - Navy,Jaipur,16,28784
+W5,2026-05-29,Recycled Runner - Navy,Ahmedabad,22,50578
+W5,2026-05-29,Wool Blend Sneaker - Charcoal,Delhi,15,29985
+W5,2026-05-29,Wool Blend Sneaker - Charcoal,Mumbai,16,31984
+W5,2026-05-29,Wool Blend Sneaker - Charcoal,Bengaluru,12,27588
+W5,2026-05-29,Wool Blend Sneaker - Charcoal,Pune,21,48279
+W5,2026-05-29,Wool Blend Sneaker - Charcoal,Hyderabad,14,32186
+W5,2026-05-29,Wool Blend Sneaker - Charcoal,Chennai,22,43978
+W5,2026-05-29,Wool Blend Sneaker - Charcoal,Jaipur,20,39980
+W5,2026-05-29,Wool Blend Sneaker - Charcoal,Ahmedabad,12,23988
+W5,2026-05-29,Kids Comfort Shoe - Blue,Delhi,22,50578
+W5,2026-05-29,Kids Comfort Shoe - Blue,Mumbai,18,41382
+W5,2026-05-29,Kids Comfort Shoe - Blue,Bengaluru,17,39083
+W5,2026-05-29,Kids Comfort Shoe - Blue,Pune,18,35982
+W5,2026-05-29,Kids Comfort Shoe - Blue,Hyderabad,14,27986
+W5,2026-05-29,Kids Comfort Shoe - Blue,Chennai,18,32382
+W5,2026-05-29,Kids Comfort Shoe - Blue,Jaipur,24,55176
+W5,2026-05-29,Kids Comfort Shoe - Blue,Ahmedabad,19,34181
+W6,2026-06-05,Cloud Sneaker - Grey,Delhi,12,21588
+W6,2026-06-05,Cloud Sneaker - Grey,Mumbai,15,34485
+W6,2026-06-05,Cloud Sneaker - Grey,Bengaluru,13,29887
+W6,2026-06-05,Cloud Sneaker - Grey,Pune,24,47976
+W6,2026-06-05,Cloud Sneaker - Grey,Hyderabad,15,34485
+W6,2026-06-05,Cloud Sneaker - Grey,Chennai,21,48279
+W6,2026-06-05,Cloud Sneaker - Grey,Jaipur,15,29985
+W6,2026-06-05,Cloud Sneaker - Grey,Ahmedabad,15,34485
+W6,2026-06-05,Cloud Sneaker - Black,Delhi,17,33983
+W6,2026-06-05,Cloud Sneaker - Black,Mumbai,18,35982
+W6,2026-06-05,Cloud Sneaker - Black,Bengaluru,20,45980
+W6,2026-06-05,Cloud Sneaker - Black,Pune,17,33983
+W6,2026-06-05,Cloud Sneaker - Black,Hyderabad,16,31984
+W6,2026-06-05,Cloud Sneaker - Black,Chennai,20,39980
+W6,2026-06-05,Cloud Sneaker - Black,Jaipur,19,34181
+W6,2026-06-05,Cloud Sneaker - Black,Ahmedabad,24,55176
+W6,2026-06-05,Trail Runner - Olive,Delhi,19,37981
+W6,2026-06-05,Trail Runner - Olive,Mumbai,15,29985
+W6,2026-06-05,Trail Runner - Olive,Bengaluru,17,33983
+W6,2026-06-05,Trail Runner - Olive,Pune,12,27588
+W6,2026-06-05,Trail Runner - Olive,Hyderabad,15,34485
+W6,2026-06-05,Trail Runner - Olive,Chennai,14,25186
+W6,2026-06-05,Trail Runner - Olive,Jaipur,16,36784
+W6,2026-06-05,Trail Runner - Olive,Ahmedabad,21,48279
+W6,2026-06-05,Classic Slip-On - White,Delhi,23,45977
+W6,2026-06-05,Classic Slip-On - White,Mumbai,16,28784
+W6,2026-06-05,Classic Slip-On - White,Bengaluru,15,29985
+W6,2026-06-05,Classic Slip-On - White,Pune,15,29985
+W6,2026-06-05,Classic Slip-On - White,Hyderabad,21,37779
+W6,2026-06-05,Classic Slip-On - White,Chennai,19,43681
+W6,2026-06-05,Classic Slip-On - White,Jaipur,22,50578
+W6,2026-06-05,Classic Slip-On - White,Ahmedabad,17,33983
+W6,2026-06-05,Everyday Loafer - Tan,Delhi,24,47976
+W6,2026-06-05,Everyday Loafer - Tan,Mumbai,23,52877
+W6,2026-06-05,Everyday Loafer - Tan,Bengaluru,23,45977
+W6,2026-06-05,Everyday Loafer - Tan,Pune,19,34181
+W6,2026-06-05,Everyday Loafer - Tan,Hyderabad,23,45977
+W6,2026-06-05,Everyday Loafer - Tan,Chennai,14,25186
+W6,2026-06-05,Everyday Loafer - Tan,Jaipur,23,52877
+W6,2026-06-05,Everyday Loafer - Tan,Ahmedabad,19,34181
+W6,2026-06-05,Recycled Runner - Navy,Delhi,20,45980
+W6,2026-06-05,Recycled Runner - Navy,Mumbai,12,27588
+W6,2026-06-05,Recycled Runner - Navy,Bengaluru,12,21588
+W6,2026-06-05,Recycled Runner - Navy,Pune,22,39578
+W6,2026-06-05,Recycled Runner - Navy,Hyderabad,24,43176
+W6,2026-06-05,Recycled Runner - Navy,Chennai,18,32382
+W6,2026-06-05,Recycled Runner - Navy,Jaipur,22,39578
+W6,2026-06-05,Recycled Runner - Navy,Ahmedabad,13,29887
+W6,2026-06-05,Wool Blend Sneaker - Charcoal,Delhi,14,25186
+W6,2026-06-05,Wool Blend Sneaker - Charcoal,Mumbai,15,34485
+W6,2026-06-05,Wool Blend Sneaker - Charcoal,Bengaluru,19,37981
+W6,2026-06-05,Wool Blend Sneaker - Charcoal,Pune,12,27588
+W6,2026-06-05,Wool Blend Sneaker - Charcoal,Hyderabad,22,50578
+W6,2026-06-05,Wool Blend Sneaker - Charcoal,Chennai,21,41979
+W6,2026-06-05,Wool Blend Sneaker - Charcoal,Jaipur,22,43978
+W6,2026-06-05,Wool Blend Sneaker - Charcoal,Ahmedabad,12,21588
+W6,2026-06-05,Kids Comfort Shoe - Blue,Delhi,20,45980
+W6,2026-06-05,Kids Comfort Shoe - Blue,Mumbai,18,32382
+W6,2026-06-05,Kids Comfort Shoe - Blue,Bengaluru,12,27588
+W6,2026-06-05,Kids Comfort Shoe - Blue,Pune,23,45977
+W6,2026-06-05,Kids Comfort Shoe - Blue,Hyderabad,20,39980
+W6,2026-06-05,Kids Comfort Shoe - Blue,Chennai,12,27588
+W6,2026-06-05,Kids Comfort Shoe - Blue,Jaipur,23,52877
+W6,2026-06-05,Kids Comfort Shoe - Blue,Ahmedabad,18,32382
+W7,2026-06-12,Cloud Sneaker - Grey,Delhi,12,21588
+W7,2026-06-12,Cloud Sneaker - Grey,Mumbai,15,34485
+W7,2026-06-12,Cloud Sneaker - Grey,Bengaluru,21,41979
+W7,2026-06-12,Cloud Sneaker - Grey,Pune,16,28784
+W7,2026-06-12,Cloud Sneaker - Grey,Hyderabad,13,29887
+W7,2026-06-12,Cloud Sneaker - Grey,Chennai,16,36784
+W7,2026-06-12,Cloud Sneaker - Grey,Jaipur,21,48279
+W7,2026-06-12,Cloud Sneaker - Grey,Ahmedabad,12,21588
+W7,2026-06-12,Cloud Sneaker - Black,Delhi,17,30583
+W7,2026-06-12,Cloud Sneaker - Black,Mumbai,15,34485
+W7,2026-06-12,Cloud Sneaker - Black,Bengaluru,14,32186
+W7,2026-06-12,Cloud Sneaker - Black,Pune,18,32382
+W7,2026-06-12,Cloud Sneaker - Black,Hyderabad,16,28784
+W7,2026-06-12,Cloud Sneaker - Black,Chennai,21,37779
+W7,2026-06-12,Cloud Sneaker - Black,Jaipur,21,41979
+W7,2026-06-12,Cloud Sneaker - Black,Ahmedabad,22,50578
+W7,2026-06-12,Trail Runner - Olive,Delhi,17,33983
+W7,2026-06-12,Trail Runner - Olive,Mumbai,24,55176
+W7,2026-06-12,Trail Runner - Olive,Bengaluru,14,32186
+W7,2026-06-12,Trail Runner - Olive,Pune,23,41377
+W7,2026-06-12,Trail Runner - Olive,Hyderabad,20,45980
+W7,2026-06-12,Trail Runner - Olive,Chennai,17,30583
+W7,2026-06-12,Trail Runner - Olive,Jaipur,13,25987
+W7,2026-06-12,Trail Runner - Olive,Ahmedabad,15,26985
+W7,2026-06-12,Classic Slip-On - White,Delhi,17,39083
+W7,2026-06-12,Classic Slip-On - White,Mumbai,24,55176
+W7,2026-06-12,Classic Slip-On - White,Bengaluru,21,41979
+W7,2026-06-12,Classic Slip-On - White,Pune,24,47976
+W7,2026-06-12,Classic Slip-On - White,Hyderabad,12,27588
+W7,2026-06-12,Classic Slip-On - White,Chennai,16,31984
+W7,2026-06-12,Classic Slip-On - White,Jaipur,19,34181
+W7,2026-06-12,Classic Slip-On - White,Ahmedabad,17,39083
+W7,2026-06-12,Everyday Loafer - Tan,Delhi,18,35982
+W7,2026-06-12,Everyday Loafer - Tan,Mumbai,14,32186
+W7,2026-06-12,Everyday Loafer - Tan,Bengaluru,21,48279
+W7,2026-06-12,Everyday Loafer - Tan,Pune,18,32382
+W7,2026-06-12,Everyday Loafer - Tan,Hyderabad,24,55176
+W7,2026-06-12,Everyday Loafer - Tan,Chennai,16,28784
+W7,2026-06-12,Everyday Loafer - Tan,Jaipur,23,41377
+W7,2026-06-12,Everyday Loafer - Tan,Ahmedabad,13,25987
+W7,2026-06-12,Recycled Runner - Navy,Delhi,14,27986
+W7,2026-06-12,Recycled Runner - Navy,Mumbai,23,52877
+W7,2026-06-12,Recycled Runner - Navy,Bengaluru,14,32186
+W7,2026-06-12,Recycled Runner - Navy,Pune,18,35982
+W7,2026-06-12,Recycled Runner - Navy,Hyderabad,17,30583
+W7,2026-06-12,Recycled Runner - Navy,Chennai,13,23387
+W7,2026-06-12,Recycled Runner - Navy,Jaipur,16,31984
+W7,2026-06-12,Recycled Runner - Navy,Ahmedabad,17,33983
+W7,2026-06-12,Wool Blend Sneaker - Charcoal,Delhi,13,23387
+W7,2026-06-12,Wool Blend Sneaker - Charcoal,Mumbai,13,23387
+W7,2026-06-12,Wool Blend Sneaker - Charcoal,Bengaluru,18,35982
+W7,2026-06-12,Wool Blend Sneaker - Charcoal,Pune,20,45980
+W7,2026-06-12,Wool Blend Sneaker - Charcoal,Hyderabad,20,39980
+W7,2026-06-12,Wool Blend Sneaker - Charcoal,Chennai,13,23387
+W7,2026-06-12,Wool Blend Sneaker - Charcoal,Jaipur,13,25987
+W7,2026-06-12,Wool Blend Sneaker - Charcoal,Ahmedabad,20,35980
+W7,2026-06-12,Kids Comfort Shoe - Blue,Delhi,21,48279
+W7,2026-06-12,Kids Comfort Shoe - Blue,Mumbai,24,47976
+W7,2026-06-12,Kids Comfort Shoe - Blue,Bengaluru,18,32382
+W7,2026-06-12,Kids Comfort Shoe - Blue,Pune,16,31984
+W7,2026-06-12,Kids Comfort Shoe - Blue,Hyderabad,18,32382
+W7,2026-06-12,Kids Comfort Shoe - Blue,Chennai,23,52877
+W7,2026-06-12,Kids Comfort Shoe - Blue,Jaipur,15,34485
+W7,2026-06-12,Kids Comfort Shoe - Blue,Ahmedabad,20,35980
+W8,2026-06-19,Cloud Sneaker - Grey,Delhi,4,9196
+W8,2026-06-19,Cloud Sneaker - Grey,Mumbai,5,8995
+W8,2026-06-19,Cloud Sneaker - Grey,Bengaluru,11,21989
+W8,2026-06-19,Cloud Sneaker - Grey,Pune,8,15992
+W8,2026-06-19,Cloud Sneaker - Grey,Hyderabad,10,19990
+W8,2026-06-19,Cloud Sneaker - Grey,Chennai,13,29887
+W8,2026-06-19,Cloud Sneaker - Grey,Jaipur,13,25987
+W8,2026-06-19,Cloud Sneaker - Grey,Ahmedabad,12,21588
+W8,2026-06-19,Cloud Sneaker - Black,Delhi,17,33983
+W8,2026-06-19,Cloud Sneaker - Black,Mumbai,16,31984
+W8,2026-06-19,Cloud Sneaker - Black,Bengaluru,17,30583
+W8,2026-06-19,Cloud Sneaker - Black,Pune,21,37779
+W8,2026-06-19,Cloud Sneaker - Black,Hyderabad,21,48279
+W8,2026-06-19,Cloud Sneaker - Black,Chennai,14,32186
+W8,2026-06-19,Cloud Sneaker - Black,Jaipur,24,55176
+W8,2026-06-19,Cloud Sneaker - Black,Ahmedabad,12,27588
+W8,2026-06-19,Trail Runner - Olive,Delhi,19,43681
+W8,2026-06-19,Trail Runner - Olive,Mumbai,15,29985
+W8,2026-06-19,Trail Runner - Olive,Bengaluru,24,47976
+W8,2026-06-19,Trail Runner - Olive,Pune,23,41377
+W8,2026-06-19,Trail Runner - Olive,Hyderabad,24,47976
+W8,2026-06-19,Trail Runner - Olive,Chennai,22,43978
+W8,2026-06-19,Trail Runner - Olive,Jaipur,14,32186
+W8,2026-06-19,Trail Runner - Olive,Ahmedabad,16,28784
+W8,2026-06-19,Classic Slip-On - White,Delhi,16,36784
+W8,2026-06-19,Classic Slip-On - White,Mumbai,14,32186
+W8,2026-06-19,Classic Slip-On - White,Bengaluru,18,35982
+W8,2026-06-19,Classic Slip-On - White,Pune,13,25987
+W8,2026-06-19,Classic Slip-On - White,Hyderabad,21,41979
+W8,2026-06-19,Classic Slip-On - White,Chennai,21,41979
+W8,2026-06-19,Classic Slip-On - White,Jaipur,20,45980
+W8,2026-06-19,Classic Slip-On - White,Ahmedabad,23,45977
+W8,2026-06-19,Everyday Loafer - Tan,Delhi,20,35980
+W8,2026-06-19,Everyday Loafer - Tan,Mumbai,24,47976
+W8,2026-06-19,Everyday Loafer - Tan,Bengaluru,23,52877
+W8,2026-06-19,Everyday Loafer - Tan,Pune,21,48279
+W8,2026-06-19,Everyday Loafer - Tan,Hyderabad,13,23387
+W8,2026-06-19,Everyday Loafer - Tan,Chennai,24,43176
+W8,2026-06-19,Everyday Loafer - Tan,Jaipur,22,50578
+W8,2026-06-19,Everyday Loafer - Tan,Ahmedabad,17,30583
+W8,2026-06-19,Recycled Runner - Navy,Delhi,22,50578
+W8,2026-06-19,Recycled Runner - Navy,Mumbai,12,27588
+W8,2026-06-19,Recycled Runner - Navy,Bengaluru,22,50578
+W8,2026-06-19,Recycled Runner - Navy,Pune,22,43978
+W8,2026-06-19,Recycled Runner - Navy,Hyderabad,24,47976
+W8,2026-06-19,Recycled Runner - Navy,Chennai,24,47976
+W8,2026-06-19,Recycled Runner - Navy,Jaipur,13,23387
+W8,2026-06-19,Recycled Runner - Navy,Ahmedabad,13,25987
+W8,2026-06-19,Wool Blend Sneaker - Charcoal,Delhi,15,34485
+W8,2026-06-19,Wool Blend Sneaker - Charcoal,Mumbai,23,52877
+W8,2026-06-19,Wool Blend Sneaker - Charcoal,Bengaluru,20,45980
+W8,2026-06-19,Wool Blend Sneaker - Charcoal,Pune,23,52877
+W8,2026-06-19,Wool Blend Sneaker - Charcoal,Hyderabad,15,29985
+W8,2026-06-19,Wool Blend Sneaker - Charcoal,Chennai,17,33983
+W8,2026-06-19,Wool Blend Sneaker - Charcoal,Jaipur,19,43681
+W8,2026-06-19,Wool Blend Sneaker - Charcoal,Ahmedabad,21,48279
+W8,2026-06-19,Kids Comfort Shoe - Blue,Delhi,20,35980
+W8,2026-06-19,Kids Comfort Shoe - Blue,Mumbai,17,30583
+W8,2026-06-19,Kids Comfort Shoe - Blue,Bengaluru,19,34181
+W8,2026-06-19,Kids Comfort Shoe - Blue,Pune,16,31984
+W8,2026-06-19,Kids Comfort Shoe - Blue,Hyderabad,13,23387
+W8,2026-06-19,Kids Comfort Shoe - Blue,Chennai,23,41377
+W8,2026-06-19,Kids Comfort Shoe - Blue,Jaipur,17,33983
+W8,2026-06-19,Kids Comfort Shoe - Blue,Ahmedabad,17,33983
+W9,2026-06-26,Cloud Sneaker - Grey,Delhi,5,9995
+W9,2026-06-26,Cloud Sneaker - Grey,Mumbai,4,7196
+W9,2026-06-26,Cloud Sneaker - Grey,Bengaluru,13,23387
+W9,2026-06-26,Cloud Sneaker - Grey,Pune,9,17991
+W9,2026-06-26,Cloud Sneaker - Grey,Hyderabad,14,32186
+W9,2026-06-26,Cloud Sneaker - Grey,Chennai,14,25186
+W9,2026-06-26,Cloud Sneaker - Grey,Jaipur,12,21588
+W9,2026-06-26,Cloud Sneaker - Grey,Ahmedabad,14,32186
+W9,2026-06-26,Cloud Sneaker - Black,Delhi,14,27986
+W9,2026-06-26,Cloud Sneaker - Black,Mumbai,17,30583
+W9,2026-06-26,Cloud Sneaker - Black,Bengaluru,19,34181
+W9,2026-06-26,Cloud Sneaker - Black,Pune,16,36784
+W9,2026-06-26,Cloud Sneaker - Black,Hyderabad,19,43681
+W9,2026-06-26,Cloud Sneaker - Black,Chennai,22,43978
+W9,2026-06-26,Cloud Sneaker - Black,Jaipur,21,41979
+W9,2026-06-26,Cloud Sneaker - Black,Ahmedabad,21,41979
+W9,2026-06-26,Trail Runner - Olive,Delhi,21,37779
+W9,2026-06-26,Trail Runner - Olive,Mumbai,17,33983
+W9,2026-06-26,Trail Runner - Olive,Bengaluru,19,43681
+W9,2026-06-26,Trail Runner - Olive,Pune,14,32186
+W9,2026-06-26,Trail Runner - Olive,Hyderabad,23,45977
+W9,2026-06-26,Trail Runner - Olive,Chennai,21,48279
+W9,2026-06-26,Trail Runner - Olive,Jaipur,13,29887
+W9,2026-06-26,Trail Runner - Olive,Ahmedabad,14,27986
+W9,2026-06-26,Classic Slip-On - White,Delhi,13,23387
+W9,2026-06-26,Classic Slip-On - White,Mumbai,16,28784
+W9,2026-06-26,Classic Slip-On - White,Bengaluru,14,27986
+W9,2026-06-26,Classic Slip-On - White,Pune,23,41377
+W9,2026-06-26,Classic Slip-On - White,Hyderabad,20,39980
+W9,2026-06-26,Classic Slip-On - White,Chennai,18,41382
+W9,2026-06-26,Classic Slip-On - White,Jaipur,14,32186
+W9,2026-06-26,Classic Slip-On - White,Ahmedabad,18,35982
+W9,2026-06-26,Everyday Loafer - Tan,Delhi,14,27986
+W9,2026-06-26,Everyday Loafer - Tan,Mumbai,22,50578
+W9,2026-06-26,Everyday Loafer - Tan,Bengaluru,23,52877
+W9,2026-06-26,Everyday Loafer - Tan,Pune,14,32186
+W9,2026-06-26,Everyday Loafer - Tan,Hyderabad,14,27986
+W9,2026-06-26,Everyday Loafer - Tan,Chennai,16,28784
+W9,2026-06-26,Everyday Loafer - Tan,Jaipur,14,27986
+W9,2026-06-26,Everyday Loafer - Tan,Ahmedabad,19,43681
+W9,2026-06-26,Recycled Runner - Navy,Delhi,12,23988
+W9,2026-06-26,Recycled Runner - Navy,Mumbai,12,23988
+W9,2026-06-26,Recycled Runner - Navy,Bengaluru,14,25186
+W9,2026-06-26,Recycled Runner - Navy,Pune,18,41382
+W9,2026-06-26,Recycled Runner - Navy,Hyderabad,20,45980
+W9,2026-06-26,Recycled Runner - Navy,Chennai,19,37981
+W9,2026-06-26,Recycled Runner - Navy,Jaipur,22,43978
+W9,2026-06-26,Recycled Runner - Navy,Ahmedabad,18,41382
+W9,2026-06-26,Wool Blend Sneaker - Charcoal,Delhi,19,37981
+W9,2026-06-26,Wool Blend Sneaker - Charcoal,Mumbai,14,25186
+W9,2026-06-26,Wool Blend Sneaker - Charcoal,Bengaluru,21,37779
+W9,2026-06-26,Wool Blend Sneaker - Charcoal,Pune,24,43176
+W9,2026-06-26,Wool Blend Sneaker - Charcoal,Hyderabad,16,28784
+W9,2026-06-26,Wool Blend Sneaker - Charcoal,Chennai,16,28784
+W9,2026-06-26,Wool Blend Sneaker - Charcoal,Jaipur,20,39980
+W9,2026-06-26,Wool Blend Sneaker - Charcoal,Ahmedabad,14,27986
+W9,2026-06-26,Kids Comfort Shoe - Blue,Delhi,21,48279
+W9,2026-06-26,Kids Comfort Shoe - Blue,Mumbai,24,47976
+W9,2026-06-26,Kids Comfort Shoe - Blue,Bengaluru,20,45980
+W9,2026-06-26,Kids Comfort Shoe - Blue,Pune,13,29887
+W9,2026-06-26,Kids Comfort Shoe - Blue,Hyderabad,13,25987
+W9,2026-06-26,Kids Comfort Shoe - Blue,Chennai,24,55176
+W9,2026-06-26,Kids Comfort Shoe - Blue,Jaipur,17,39083
+W9,2026-06-26,Kids Comfort Shoe - Blue,Ahmedabad,24,43176
+W10,2026-07-03,Cloud Sneaker - Grey,Delhi,20,45980
+W10,2026-07-03,Cloud Sneaker - Grey,Mumbai,13,23387
+W10,2026-07-03,Cloud Sneaker - Grey,Bengaluru,24,47976
+W10,2026-07-03,Cloud Sneaker - Grey,Pune,12,23988
+W10,2026-07-03,Cloud Sneaker - Grey,Hyderabad,22,39578
+W10,2026-07-03,Cloud Sneaker - Grey,Chennai,23,41377
+W10,2026-07-03,Cloud Sneaker - Grey,Jaipur,15,26985
+W10,2026-07-03,Cloud Sneaker - Grey,Ahmedabad,23,45977
+W10,2026-07-03,Cloud Sneaker - Black,Delhi,15,34485
+W10,2026-07-03,Cloud Sneaker - Black,Mumbai,18,35982
+W10,2026-07-03,Cloud Sneaker - Black,Bengaluru,14,32186
+W10,2026-07-03,Cloud Sneaker - Black,Pune,22,43978
+W10,2026-07-03,Cloud Sneaker - Black,Hyderabad,22,43978
+W10,2026-07-03,Cloud Sneaker - Black,Chennai,18,35982
+W10,2026-07-03,Cloud Sneaker - Black,Jaipur,13,29887
+W10,2026-07-03,Cloud Sneaker - Black,Ahmedabad,24,43176
+W10,2026-07-03,Trail Runner - Olive,Delhi,18,41382
+W10,2026-07-03,Trail Runner - Olive,Mumbai,23,45977
+W10,2026-07-03,Trail Runner - Olive,Bengaluru,23,45977
+W10,2026-07-03,Trail Runner - Olive,Pune,19,37981
+W10,2026-07-03,Trail Runner - Olive,Hyderabad,17,39083
+W10,2026-07-03,Trail Runner - Olive,Chennai,12,27588
+W10,2026-07-03,Trail Runner - Olive,Jaipur,13,29887
+W10,2026-07-03,Trail Runner - Olive,Ahmedabad,19,43681
+W10,2026-07-03,Classic Slip-On - White,Delhi,22,50578
+W10,2026-07-03,Classic Slip-On - White,Mumbai,17,30583
+W10,2026-07-03,Classic Slip-On - White,Bengaluru,24,55176
+W10,2026-07-03,Classic Slip-On - White,Pune,18,32382
+W10,2026-07-03,Classic Slip-On - White,Hyderabad,18,32382
+W10,2026-07-03,Classic Slip-On - White,Chennai,19,37981
+W10,2026-07-03,Classic Slip-On - White,Jaipur,17,33983
+W10,2026-07-03,Classic Slip-On - White,Ahmedabad,17,39083
+W10,2026-07-03,Everyday Loafer - Tan,Delhi,21,37779
+W10,2026-07-03,Everyday Loafer - Tan,Mumbai,21,41979
+W10,2026-07-03,Everyday Loafer - Tan,Bengaluru,24,47976
+W10,2026-07-03,Everyday Loafer - Tan,Pune,22,39578
+W10,2026-07-03,Everyday Loafer - Tan,Hyderabad,12,21588
+W10,2026-07-03,Everyday Loafer - Tan,Chennai,22,43978
+W10,2026-07-03,Everyday Loafer - Tan,Jaipur,12,21588
+W10,2026-07-03,Everyday Loafer - Tan,Ahmedabad,14,27986
+W10,2026-07-03,Recycled Runner - Navy,Delhi,19,34181
+W10,2026-07-03,Recycled Runner - Navy,Mumbai,18,32382
+W10,2026-07-03,Recycled Runner - Navy,Bengaluru,23,41377
+W10,2026-07-03,Recycled Runner - Navy,Pune,22,43978
+W10,2026-07-03,Recycled Runner - Navy,Hyderabad,14,27986
+W10,2026-07-03,Recycled Runner - Navy,Chennai,13,29887
+W10,2026-07-03,Recycled Runner - Navy,Jaipur,17,33983
+W10,2026-07-03,Recycled Runner - Navy,Ahmedabad,13,25987
+W10,2026-07-03,Wool Blend Sneaker - Charcoal,Delhi,22,50578
+W10,2026-07-03,Wool Blend Sneaker - Charcoal,Mumbai,14,25186
+W10,2026-07-03,Wool Blend Sneaker - Charcoal,Bengaluru,18,41382
+W10,2026-07-03,Wool Blend Sneaker - Charcoal,Pune,16,36784
+W10,2026-07-03,Wool Blend Sneaker - Charcoal,Hyderabad,23,41377
+W10,2026-07-03,Wool Blend Sneaker - Charcoal,Chennai,18,41382
+W10,2026-07-03,Wool Blend Sneaker - Charcoal,Jaipur,13,29887
+W10,2026-07-03,Wool Blend Sneaker - Charcoal,Ahmedabad,13,23387
+W10,2026-07-03,Kids Comfort Shoe - Blue,Delhi,15,29985
+W10,2026-07-03,Kids Comfort Shoe - Blue,Mumbai,13,23387
+W10,2026-07-03,Kids Comfort Shoe - Blue,Bengaluru,21,37779
+W10,2026-07-03,Kids Comfort Shoe - Blue,Pune,20,45980
+W10,2026-07-03,Kids Comfort Shoe - Blue,Hyderabad,19,34181
+W10,2026-07-03,Kids Comfort Shoe - Blue,Chennai,12,27588
+W10,2026-07-03,Kids Comfort Shoe - Blue,Jaipur,17,30583
+W10,2026-07-03,Kids Comfort Shoe - Blue,Ahmedabad,18,41382
+W11,2026-07-10,Cloud Sneaker - Grey,Delhi,24,43176
+W11,2026-07-10,Cloud Sneaker - Grey,Mumbai,15,29985
+W11,2026-07-10,Cloud Sneaker - Grey,Bengaluru,22,39578
+W11,2026-07-10,Cloud Sneaker - Grey,Pune,15,34485
+W11,2026-07-10,Cloud Sneaker - Grey,Hyderabad,21,48279
+W11,2026-07-10,Cloud Sneaker - Grey,Chennai,23,52877
+W11,2026-07-10,Cloud Sneaker - Grey,Jaipur,16,36784
+W11,2026-07-10,Cloud Sneaker - Grey,Ahmedabad,12,27588
+W11,2026-07-10,Cloud Sneaker - Black,Delhi,16,28784
+W11,2026-07-10,Cloud Sneaker - Black,Mumbai,20,45980
+W11,2026-07-10,Cloud Sneaker - Black,Bengaluru,20,35980
+W11,2026-07-10,Cloud Sneaker - Black,Pune,23,45977
+W11,2026-07-10,Cloud Sneaker - Black,Hyderabad,16,36784
+W11,2026-07-10,Cloud Sneaker - Black,Chennai,12,21588
+W11,2026-07-10,Cloud Sneaker - Black,Jaipur,19,37981
+W11,2026-07-10,Cloud Sneaker - Black,Ahmedabad,13,23387
+W11,2026-07-10,Trail Runner - Olive,Delhi,19,43681
+W11,2026-07-10,Trail Runner - Olive,Mumbai,21,37779
+W11,2026-07-10,Trail Runner - Olive,Bengaluru,20,35980
+W11,2026-07-10,Trail Runner - Olive,Pune,17,33983
+W11,2026-07-10,Trail Runner - Olive,Hyderabad,14,27986
+W11,2026-07-10,Trail Runner - Olive,Chennai,21,41979
+W11,2026-07-10,Trail Runner - Olive,Jaipur,17,39083
+W11,2026-07-10,Trail Runner - Olive,Ahmedabad,22,39578
+W11,2026-07-10,Classic Slip-On - White,Delhi,24,47976
+W11,2026-07-10,Classic Slip-On - White,Mumbai,24,43176
+W11,2026-07-10,Classic Slip-On - White,Bengaluru,12,27588
+W11,2026-07-10,Classic Slip-On - White,Pune,13,23387
+W11,2026-07-10,Classic Slip-On - White,Hyderabad,16,28784
+W11,2026-07-10,Classic Slip-On - White,Chennai,12,21588
+W11,2026-07-10,Classic Slip-On - White,Jaipur,24,47976
+W11,2026-07-10,Classic Slip-On - White,Ahmedabad,20,39980
+W11,2026-07-10,Everyday Loafer - Tan,Delhi,22,50578
+W11,2026-07-10,Everyday Loafer - Tan,Mumbai,20,39980
+W11,2026-07-10,Everyday Loafer - Tan,Bengaluru,18,41382
+W11,2026-07-10,Everyday Loafer - Tan,Pune,18,32382
+W11,2026-07-10,Everyday Loafer - Tan,Hyderabad,22,50578
+W11,2026-07-10,Everyday Loafer - Tan,Chennai,20,45980
+W11,2026-07-10,Everyday Loafer - Tan,Jaipur,14,27986
+W11,2026-07-10,Everyday Loafer - Tan,Ahmedabad,13,25987
+W11,2026-07-10,Recycled Runner - Navy,Delhi,13,29887
+W11,2026-07-10,Recycled Runner - Navy,Mumbai,15,26985
+W11,2026-07-10,Recycled Runner - Navy,Bengaluru,20,39980
+W11,2026-07-10,Recycled Runner - Navy,Pune,18,41382
+W11,2026-07-10,Recycled Runner - Navy,Hyderabad,22,50578
+W11,2026-07-10,Recycled Runner - Navy,Chennai,22,50578
+W11,2026-07-10,Recycled Runner - Navy,Jaipur,13,25987
+W11,2026-07-10,Recycled Runner - Navy,Ahmedabad,23,45977
+W11,2026-07-10,Wool Blend Sneaker - Charcoal,Delhi,23,41377
+W11,2026-07-10,Wool Blend Sneaker - Charcoal,Mumbai,12,21588
+W11,2026-07-10,Wool Blend Sneaker - Charcoal,Bengaluru,13,25987
+W11,2026-07-10,Wool Blend Sneaker - Charcoal,Pune,13,25987
+W11,2026-07-10,Wool Blend Sneaker - Charcoal,Hyderabad,21,48279
+W11,2026-07-10,Wool Blend Sneaker - Charcoal,Chennai,12,23988
+W11,2026-07-10,Wool Blend Sneaker - Charcoal,Jaipur,22,50578
+W11,2026-07-10,Wool Blend Sneaker - Charcoal,Ahmedabad,22,50578
+W11,2026-07-10,Kids Comfort Shoe - Blue,Delhi,14,25186
+W11,2026-07-10,Kids Comfort Shoe - Blue,Mumbai,12,27588
+W11,2026-07-10,Kids Comfort Shoe - Blue,Bengaluru,14,32186
+W11,2026-07-10,Kids Comfort Shoe - Blue,Pune,12,21588
+W11,2026-07-10,Kids Comfort Shoe - Blue,Hyderabad,19,37981
+W11,2026-07-10,Kids Comfort Shoe - Blue,Chennai,20,45980
+W11,2026-07-10,Kids Comfort Shoe - Blue,Jaipur,24,55176
+W11,2026-07-10,Kids Comfort Shoe - Blue,Ahmedabad,16,28784
+W12,2026-07-17,Cloud Sneaker - Grey,Delhi,20,45980
+W12,2026-07-17,Cloud Sneaker - Grey,Mumbai,23,52877
+W12,2026-07-17,Cloud Sneaker - Grey,Bengaluru,18,32382
+W12,2026-07-17,Cloud Sneaker - Grey,Pune,17,30583
+W12,2026-07-17,Cloud Sneaker - Grey,Hyderabad,18,41382
+W12,2026-07-17,Cloud Sneaker - Grey,Chennai,17,33983
+W12,2026-07-17,Cloud Sneaker - Grey,Jaipur,13,29887
+W12,2026-07-17,Cloud Sneaker - Grey,Ahmedabad,17,30583
+W12,2026-07-17,Cloud Sneaker - Black,Delhi,20,45980
+W12,2026-07-17,Cloud Sneaker - Black,Mumbai,12,21588
+W12,2026-07-17,Cloud Sneaker - Black,Bengaluru,15,34485
+W12,2026-07-17,Cloud Sneaker - Black,Pune,12,23988
+W12,2026-07-17,Cloud Sneaker - Black,Hyderabad,13,25987
+W12,2026-07-17,Cloud Sneaker - Black,Chennai,16,31984
+W12,2026-07-17,Cloud Sneaker - Black,Jaipur,17,30583
+W12,2026-07-17,Cloud Sneaker - Black,Ahmedabad,20,39980
+W12,2026-07-17,Trail Runner - Olive,Delhi,12,23988
+W12,2026-07-17,Trail Runner - Olive,Mumbai,15,29985
+W12,2026-07-17,Trail Runner - Olive,Bengaluru,21,41979
+W12,2026-07-17,Trail Runner - Olive,Pune,23,52877
+W12,2026-07-17,Trail Runner - Olive,Hyderabad,15,29985
+W12,2026-07-17,Trail Runner - Olive,Chennai,17,39083
+W12,2026-07-17,Trail Runner - Olive,Jaipur,19,34181
+W12,2026-07-17,Trail Runner - Olive,Ahmedabad,23,52877
+W12,2026-07-17,Classic Slip-On - White,Delhi,24,43176
+W12,2026-07-17,Classic Slip-On - White,Mumbai,14,25186
+W12,2026-07-17,Classic Slip-On - White,Bengaluru,18,32382
+W12,2026-07-17,Classic Slip-On - White,Pune,15,34485
+W12,2026-07-17,Classic Slip-On - White,Hyderabad,17,39083
+W12,2026-07-17,Classic Slip-On - White,Chennai,23,41377
+W12,2026-07-17,Classic Slip-On - White,Jaipur,17,30583
+W12,2026-07-17,Classic Slip-On - White,Ahmedabad,24,55176
+W12,2026-07-17,Everyday Loafer - Tan,Delhi,18,41382
+W12,2026-07-17,Everyday Loafer - Tan,Mumbai,23,45977
+W12,2026-07-17,Everyday Loafer - Tan,Bengaluru,13,23387
+W12,2026-07-17,Everyday Loafer - Tan,Pune,20,35980
+W12,2026-07-17,Everyday Loafer - Tan,Hyderabad,18,35982
+W12,2026-07-17,Everyday Loafer - Tan,Chennai,12,21588
+W12,2026-07-17,Everyday Loafer - Tan,Jaipur,23,45977
+W12,2026-07-17,Everyday Loafer - Tan,Ahmedabad,13,23387
+W12,2026-07-17,Recycled Runner - Navy,Delhi,15,34485
+W12,2026-07-17,Recycled Runner - Navy,Mumbai,18,41382
+W12,2026-07-17,Recycled Runner - Navy,Bengaluru,17,33983
+W12,2026-07-17,Recycled Runner - Navy,Pune,23,41377
+W12,2026-07-17,Recycled Runner - Navy,Hyderabad,21,37779
+W12,2026-07-17,Recycled Runner - Navy,Chennai,20,35980
+W12,2026-07-17,Recycled Runner - Navy,Jaipur,22,43978
+W12,2026-07-17,Recycled Runner - Navy,Ahmedabad,13,29887
+W12,2026-07-17,Wool Blend Sneaker - Charcoal,Delhi,21,37779
+W12,2026-07-17,Wool Blend Sneaker - Charcoal,Mumbai,18,41382
+W12,2026-07-17,Wool Blend Sneaker - Charcoal,Bengaluru,14,25186
+W12,2026-07-17,Wool Blend Sneaker - Charcoal,Pune,16,31984
+W12,2026-07-17,Wool Blend Sneaker - Charcoal,Hyderabad,17,33983
+W12,2026-07-17,Wool Blend Sneaker - Charcoal,Chennai,23,52877
+W12,2026-07-17,Wool Blend Sneaker - Charcoal,Jaipur,17,33983
+W12,2026-07-17,Wool Blend Sneaker - Charcoal,Ahmedabad,19,37981
+W12,2026-07-17,Kids Comfort Shoe - Blue,Delhi,15,26985
+W12,2026-07-17,Kids Comfort Shoe - Blue,Mumbai,15,26985
+W12,2026-07-17,Kids Comfort Shoe - Blue,Bengaluru,24,55176
+W12,2026-07-17,Kids Comfort Shoe - Blue,Pune,13,23387
+W12,2026-07-17,Kids Comfort Shoe - Blue,Hyderabad,13,23387
+W12,2026-07-17,Kids Comfort Shoe - Blue,Chennai,19,37981
+W12,2026-07-17,Kids Comfort Shoe - Blue,Jaipur,17,33983
+W12,2026-07-17,Kids Comfort Shoe - Blue,Ahmedabad,13,29887

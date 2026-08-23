@@ -1,0 +1,97 @@
+week,week_start,product,warehouse,closing_stock_units
+W1,2026-05-01,Cloud Sneaker - Grey,Delhi-DC1,731
+W1,2026-05-01,Cloud Sneaker - Black,Delhi-DC1,490
+W1,2026-05-01,Trail Runner - Olive,Delhi-DC1,456
+W1,2026-05-01,Classic Slip-On - White,Mumbai-DC2,764
+W1,2026-05-01,Everyday Loafer - Tan,Bengaluru-DC3,328
+W1,2026-05-01,Recycled Runner - Navy,Bengaluru-DC3,510
+W1,2026-05-01,Wool Blend Sneaker - Charcoal,Delhi-DC1,746
+W1,2026-05-01,Kids Comfort Shoe - Blue,Bengaluru-DC3,714
+W2,2026-05-08,Cloud Sneaker - Grey,Delhi-DC1,340
+W2,2026-05-08,Cloud Sneaker - Black,Mumbai-DC2,541
+W2,2026-05-08,Trail Runner - Olive,Mumbai-DC2,731
+W2,2026-05-08,Classic Slip-On - White,Bengaluru-DC3,352
+W2,2026-05-08,Everyday Loafer - Tan,Delhi-DC1,727
+W2,2026-05-08,Recycled Runner - Navy,Bengaluru-DC3,535
+W2,2026-05-08,Wool Blend Sneaker - Charcoal,Delhi-DC1,526
+W2,2026-05-08,Kids Comfort Shoe - Blue,Bengaluru-DC3,602
+W3,2026-05-15,Cloud Sneaker - Grey,Delhi-DC1,763
+W3,2026-05-15,Cloud Sneaker - Black,Mumbai-DC2,361
+W3,2026-05-15,Trail Runner - Olive,Mumbai-DC2,687
+W3,2026-05-15,Classic Slip-On - White,Mumbai-DC2,404
+W3,2026-05-15,Everyday Loafer - Tan,Mumbai-DC2,528
+W3,2026-05-15,Recycled Runner - Navy,Delhi-DC1,260
+W3,2026-05-15,Wool Blend Sneaker - Charcoal,Delhi-DC1,787
+W3,2026-05-15,Kids Comfort Shoe - Blue,Bengaluru-DC3,747
+W4,2026-05-22,Cloud Sneaker - Grey,Delhi-DC1,673
+W4,2026-05-22,Cloud Sneaker - Black,Bengaluru-DC3,515
+W4,2026-05-22,Trail Runner - Olive,Mumbai-DC2,222
+W4,2026-05-22,Classic Slip-On - White,Delhi-DC1,460
+W4,2026-05-22,Everyday Loafer - Tan,Bengaluru-DC3,423
+W4,2026-05-22,Recycled Runner - Navy,Delhi-DC1,274
+W4,2026-05-22,Wool Blend Sneaker - Charcoal,Mumbai-DC2,633
+W4,2026-05-22,Kids Comfort Shoe - Blue,Bengaluru-DC3,265
+W5,2026-05-29,Cloud Sneaker - Grey,Delhi-DC1,748
+W5,2026-05-29,Cloud Sneaker - Black,Delhi-DC1,395
+W5,2026-05-29,Trail Runner - Olive,Mumbai-DC2,474
+W5,2026-05-29,Classic Slip-On - White,Delhi-DC1,240
+W5,2026-05-29,Everyday Loafer - Tan,Bengaluru-DC3,392
+W5,2026-05-29,Recycled Runner - Navy,Delhi-DC1,772
+W5,2026-05-29,Wool Blend Sneaker - Charcoal,Delhi-DC1,690
+W5,2026-05-29,Kids Comfort Shoe - Blue,Mumbai-DC2,540
+W6,2026-06-05,Cloud Sneaker - Grey,Delhi-DC1,586
+W6,2026-06-05,Cloud Sneaker - Black,Mumbai-DC2,765
+W6,2026-06-05,Trail Runner - Olive,Bengaluru-DC3,257
+W6,2026-06-05,Classic Slip-On - White,Bengaluru-DC3,209
+W6,2026-06-05,Everyday Loafer - Tan,Delhi-DC1,375
+W6,2026-06-05,Recycled Runner - Navy,Mumbai-DC2,711
+W6,2026-06-05,Wool Blend Sneaker - Charcoal,Bengaluru-DC3,539
+W6,2026-06-05,Kids Comfort Shoe - Blue,Bengaluru-DC3,297
+W7,2026-06-12,Cloud Sneaker - Grey,Delhi-DC1,309
+W7,2026-06-12,Cloud Sneaker - Black,Mumbai-DC2,338
+W7,2026-06-12,Trail Runner - Olive,Mumbai-DC2,206
+W7,2026-06-12,Classic Slip-On - White,Bengaluru-DC3,540
+W7,2026-06-12,Everyday Loafer - Tan,Mumbai-DC2,589
+W7,2026-06-12,Recycled Runner - Navy,Mumbai-DC2,650
+W7,2026-06-12,Wool Blend Sneaker - Charcoal,Bengaluru-DC3,640
+W7,2026-06-12,Kids Comfort Shoe - Blue,Mumbai-DC2,339
+W8,2026-06-19,Cloud Sneaker - Grey,Delhi-DC1,21
+W8,2026-06-19,Cloud Sneaker - Black,Mumbai-DC2,773
+W8,2026-06-19,Trail Runner - Olive,Delhi-DC1,673
+W8,2026-06-19,Classic Slip-On - White,Bengaluru-DC3,614
+W8,2026-06-19,Everyday Loafer - Tan,Delhi-DC1,388
+W8,2026-06-19,Recycled Runner - Navy,Mumbai-DC2,642
+W8,2026-06-19,Wool Blend Sneaker - Charcoal,Bengaluru-DC3,229
+W8,2026-06-19,Kids Comfort Shoe - Blue,Mumbai-DC2,402
+W9,2026-06-26,Cloud Sneaker - Grey,Delhi-DC1,13
+W9,2026-06-26,Cloud Sneaker - Black,Delhi-DC1,411
+W9,2026-06-26,Trail Runner - Olive,Mumbai-DC2,783
+W9,2026-06-26,Classic Slip-On - White,Mumbai-DC2,745
+W9,2026-06-26,Everyday Loafer - Tan,Delhi-DC1,751
+W9,2026-06-26,Recycled Runner - Navy,Bengaluru-DC3,531
+W9,2026-06-26,Wool Blend Sneaker - Charcoal,Mumbai-DC2,499
+W9,2026-06-26,Kids Comfort Shoe - Blue,Mumbai-DC2,786
+W10,2026-07-03,Cloud Sneaker - Grey,Delhi-DC1,559
+W10,2026-07-03,Cloud Sneaker - Black,Bengaluru-DC3,418
+W10,2026-07-03,Trail Runner - Olive,Mumbai-DC2,355
+W10,2026-07-03,Classic Slip-On - White,Delhi-DC1,653
+W10,2026-07-03,Everyday Loafer - Tan,Delhi-DC1,288
+W10,2026-07-03,Recycled Runner - Navy,Delhi-DC1,343
+W10,2026-07-03,Wool Blend Sneaker - Charcoal,Mumbai-DC2,593
+W10,2026-07-03,Kids Comfort Shoe - Blue,Mumbai-DC2,639
+W11,2026-07-10,Cloud Sneaker - Grey,Delhi-DC1,787
+W11,2026-07-10,Cloud Sneaker - Black,Delhi-DC1,318
+W11,2026-07-10,Trail Runner - Olive,Delhi-DC1,721
+W11,2026-07-10,Classic Slip-On - White,Delhi-DC1,245
+W11,2026-07-10,Everyday Loafer - Tan,Delhi-DC1,450
+W11,2026-07-10,Recycled Runner - Navy,Mumbai-DC2,683
+W11,2026-07-10,Wool Blend Sneaker - Charcoal,Delhi-DC1,592
+W11,2026-07-10,Kids Comfort Shoe - Blue,Delhi-DC1,383
+W12,2026-07-17,Cloud Sneaker - Grey,Delhi-DC1,378
+W12,2026-07-17,Cloud Sneaker - Black,Mumbai-DC2,231
+W12,2026-07-17,Trail Runner - Olive,Bengaluru-DC3,663
+W12,2026-07-17,Classic Slip-On - White,Delhi-DC1,763
+W12,2026-07-17,Everyday Loafer - Tan,Mumbai-DC2,296
+W12,2026-07-17,Recycled Runner - Navy,Delhi-DC1,304
+W12,2026-07-17,Wool Blend Sneaker - Charcoal,Delhi-DC1,324
+W12,2026-07-17,Kids Comfort Shoe - Blue,Delhi-DC1,263

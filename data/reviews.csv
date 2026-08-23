@@ -1,0 +1,221 @@
+review_id,order_id,customer_id,product,rating,review_text,review_date,city
+REV2001,ORD1001,CUST501,Cloud Sneaker - Black,2,Ordered my usual size but it's way too narrow for my feet.,2026-08-09,Delhi
+REV2002,ORD1002,CUST502,Cloud Sneaker - Black,4,Fits true to size and looks even better in person.,2026-05-07,Jaipur
+REV2003,ORD1003,CUST503,Cloud Sneaker - Grey,1,Box arrived damaged and the shoe had a scuff mark already.,2026-08-12,Pune
+REV2004,ORD1004,CUST504,Everyday Loafer - Tan,3,"Runs really small, had to return and reorder a size up.",2026-08-20,Delhi
+REV2005,ORD1005,CUST505,Trail Runner - Olive,4,"Love the sustainable materials, feels good to buy consciously.",2026-08-13,Pune
+REV2006,ORD1006,CUST506,Recycled Runner - Navy,5,"Great quality for the price, will definitely buy another pair.",2026-07-23,Chennai
+REV2007,ORD1007,CUST507,Cloud Sneaker - Black,2,Stitching came undone after the first wash.,2026-05-21,Jaipur
+REV2008,ORD1008,CUST508,Cloud Sneaker - Grey,4,Fits true to size and looks even better in person.,2026-08-13,Pune
+REV2009,ORD1009,CUST509,Everyday Loafer - Tan,3,"Runs really small, had to return and reorder a size up.",2026-07-28,Ahmedabad
+REV2010,ORD1010,CUST510,Everyday Loafer - Tan,2,"Runs really small, had to return and reorder a size up.",2026-07-29,Mumbai
+REV2011,ORD1011,CUST511,Wool Blend Sneaker - Charcoal,3,Ordered my usual size but it's way too narrow for my feet.,2026-08-03,Hyderabad
+REV2012,ORD1012,CUST512,Cloud Sneaker - Grey,4,Fits true to size and looks even better in person.,2026-06-27,Chennai
+REV2013,ORD1013,CUST513,Kids Comfort Shoe - Blue,5,"Perfect for my daily walks, very lightweight.",2026-07-31,Jaipur
+REV2014,ORD1014,CUST514,Everyday Loafer - Tan,1,Took 12 days to arrive even though the site promised 4-5 days.,2026-07-22,Jaipur
+REV2015,ORD1015,CUST515,Kids Comfort Shoe - Blue,4,"Love the sustainable materials, feels good to buy consciously.",2026-08-07,Mumbai
+REV2016,ORD1016,CUST516,Cloud Sneaker - Black,2,"Raised a return request 5 days ago, no response from support yet.",2026-06-29,Jaipur
+REV2017,ORD1017,CUST517,Everyday Loafer - Tan,1,Box arrived damaged and the shoe had a scuff mark already.,2026-05-21,Chennai
+REV2018,ORD1018,CUST518,Everyday Loafer - Tan,1,Stitching came undone after the first wash.,2026-07-07,Bengaluru
+REV2019,ORD1019,CUST519,Trail Runner - Olive,1,"Customer care kept transferring my call, issue still unresolved.",2026-07-23,Delhi
+REV2020,ORD1020,CUST520,Everyday Loafer - Tan,4,Fits true to size and looks even better in person.,2026-05-13,Pune
+REV2021,ORD1021,CUST521,Trail Runner - Olive,3,"Runs really small, had to return and reorder a size up.",2026-08-02,Bengaluru
+REV2022,ORD1022,CUST522,Classic Slip-On - White,2,Took 12 days to arrive even though the site promised 4-5 days.,2026-07-03,Hyderabad
+REV2023,ORD1023,CUST523,Classic Slip-On - White,5,"Super comfortable, wore them all day at work with zero pain.",2026-05-16,Pune
+REV2024,ORD1024,CUST524,Classic Slip-On - White,4,"Great quality for the price, will definitely buy another pair.",2026-05-23,Delhi
+REV2025,ORD1025,CUST525,Recycled Runner - Navy,2,Sole started peeling off within three weeks of light use.,2026-07-10,Mumbai
+REV2026,ORD1026,CUST526,Trail Runner - Olive,2,"Customer care kept transferring my call, issue still unresolved.",2026-06-15,Ahmedabad
+REV2027,ORD1027,CUST527,Cloud Sneaker - Black,2,Box arrived damaged and the shoe had a scuff mark already.,2026-06-23,Jaipur
+REV2028,ORD1028,CUST528,Cloud Sneaker - Grey,4,"Love the sustainable materials, feels good to buy consciously.",2026-08-09,Jaipur
+REV2029,ORD1029,CUST529,Kids Comfort Shoe - Blue,2,Sole started peeling off within three weeks of light use.,2026-06-28,Bengaluru
+REV2030,ORD1030,CUST530,Kids Comfort Shoe - Blue,4,"Super comfortable, wore them all day at work with zero pain.",2026-05-19,Mumbai
+REV2031,ORD1031,CUST531,Wool Blend Sneaker - Charcoal,1,"Delivery partner delayed twice, no updates on tracking page.",2026-07-06,Ahmedabad
+REV2032,ORD1032,CUST532,Cloud Sneaker - Grey,2,"Raised a return request 5 days ago, no response from support yet.",2026-06-17,Jaipur
+REV2033,ORD1033,CUST533,Kids Comfort Shoe - Blue,2,"Sizing is inconsistent with your last collection, too tight on the sides.",2026-05-31,Bengaluru
+REV2034,ORD1034,CUST534,Cloud Sneaker - Grey,1,"Refund promised in 7 days, it has been 3 weeks now.",2026-07-23,Delhi
+REV2035,ORD1035,CUST535,Cloud Sneaker - Black,5,Fits true to size and looks even better in person.,2026-05-20,Bengaluru
+REV2036,ORD1036,CUST536,Cloud Sneaker - Black,5,"Great quality for the price, will definitely buy another pair.",2026-07-25,Pune
+REV2037,ORD1037,CUST537,Recycled Runner - Navy,1,Color faded badly after just a couple of wears in the sun.,2026-06-08,Hyderabad
+REV2038,ORD1038,CUST538,Trail Runner - Olive,4,Fits true to size and looks even better in person.,2026-07-05,Hyderabad
+REV2039,ORD1039,CUST539,Cloud Sneaker - Black,2,"Refund promised in 7 days, it has been 3 weeks now.",2026-07-13,Mumbai
+REV2040,ORD1040,CUST540,Cloud Sneaker - Black,3,"Runs really small, had to return and reorder a size up.",2026-06-23,Pune
+REV2041,ORD1041,CUST541,Cloud Sneaker - Grey,5,"Perfect for my daily walks, very lightweight.",2026-07-27,Hyderabad
+REV2042,ORD1042,CUST542,Trail Runner - Olive,3,"Sizing is inconsistent with your last collection, too tight on the sides.",2026-06-17,Hyderabad
+REV2043,ORD1043,CUST543,Kids Comfort Shoe - Blue,5,Fits true to size and looks even better in person.,2026-08-19,Hyderabad
+REV2044,ORD1044,CUST544,Cloud Sneaker - Grey,5,"Perfect for my daily walks, very lightweight.",2026-06-26,Delhi
+REV2045,ORD1045,CUST545,Kids Comfort Shoe - Blue,4,"Love the sustainable materials, feels good to buy consciously.",2026-07-13,Jaipur
+REV2046,ORD1046,CUST546,Cloud Sneaker - Grey,5,"Perfect for my daily walks, very lightweight.",2026-07-24,Chennai
+REV2047,ORD1047,CUST547,Everyday Loafer - Tan,1,Took 12 days to arrive even though the site promised 4-5 days.,2026-08-12,Chennai
+REV2048,ORD1048,CUST548,Recycled Runner - Navy,4,"Perfect for my daily walks, very lightweight.",2026-08-01,Jaipur
+REV2049,ORD1049,CUST549,Wool Blend Sneaker - Charcoal,2,Color faded badly after just a couple of wears in the sun.,2026-06-05,Delhi
+REV2050,ORD1050,CUST550,Trail Runner - Olive,1,"Customer care kept transferring my call, issue still unresolved.",2026-06-20,Mumbai
+REV2051,ORD1051,CUST551,Recycled Runner - Navy,2,Ordered my usual size but it's way too narrow for my feet.,2026-08-28,Hyderabad
+REV2052,ORD1052,CUST552,Wool Blend Sneaker - Charcoal,2,Sole started peeling off within three weeks of light use.,2026-06-08,Chennai
+REV2053,ORD1053,CUST553,Recycled Runner - Navy,3,"Runs really small, had to return and reorder a size up.",2026-05-21,Delhi
+REV2054,ORD1054,CUST554,Wool Blend Sneaker - Charcoal,2,Color faded badly after just a couple of wears in the sun.,2026-08-16,Chennai
+REV2055,ORD1055,CUST555,Classic Slip-On - White,1,Box arrived damaged and the shoe had a scuff mark already.,2026-05-19,Hyderabad
+REV2056,ORD1056,CUST556,Wool Blend Sneaker - Charcoal,1,Color faded badly after just a couple of wears in the sun.,2026-08-01,Mumbai
+REV2057,ORD1057,CUST557,Everyday Loafer - Tan,1,Stitching came undone after the first wash.,2026-06-19,Jaipur
+REV2058,ORD1058,CUST558,Wool Blend Sneaker - Charcoal,2,Stitching came undone after the first wash.,2026-07-29,Bengaluru
+REV2059,ORD1059,CUST559,Everyday Loafer - Tan,2,Color faded badly after just a couple of wears in the sun.,2026-07-09,Pune
+REV2060,ORD1060,CUST560,Classic Slip-On - White,2,"Runs really small, had to return and reorder a size up.",2026-08-24,Ahmedabad
+REV2061,ORD1061,CUST561,Recycled Runner - Navy,3,Ordered my usual size but it's way too narrow for my feet.,2026-08-27,Mumbai
+REV2062,ORD1062,CUST562,Trail Runner - Olive,1,"Customer care kept transferring my call, issue still unresolved.",2026-05-11,Delhi
+REV2063,ORD1063,CUST563,Classic Slip-On - White,2,Ordered my usual size but it's way too narrow for my feet.,2026-07-11,Jaipur
+REV2064,ORD1064,CUST564,Wool Blend Sneaker - Charcoal,2,"Refund promised in 7 days, it has been 3 weeks now.",2026-06-06,Pune
+REV2065,ORD1065,CUST565,Classic Slip-On - White,2,"Raised a return request 5 days ago, no response from support yet.",2026-07-02,Mumbai
+REV2066,ORD1066,CUST566,Wool Blend Sneaker - Charcoal,2,"Customer care kept transferring my call, issue still unresolved.",2026-06-03,Ahmedabad
+REV2067,ORD1067,CUST567,Everyday Loafer - Tan,2,Sole started peeling off within three weeks of light use.,2026-07-25,Ahmedabad
+REV2068,ORD1068,CUST568,Classic Slip-On - White,4,Fits true to size and looks even better in person.,2026-06-19,Hyderabad
+REV2069,ORD1069,CUST569,Wool Blend Sneaker - Charcoal,5,Fits true to size and looks even better in person.,2026-08-04,Bengaluru
+REV2070,ORD1070,CUST570,Kids Comfort Shoe - Blue,2,Box arrived damaged and the shoe had a scuff mark already.,2026-05-13,Jaipur
+REV2071,ORD1071,CUST571,Wool Blend Sneaker - Charcoal,2,Stitching came undone after the first wash.,2026-05-08,Ahmedabad
+REV2072,ORD1072,CUST572,Classic Slip-On - White,2,Box arrived damaged and the shoe had a scuff mark already.,2026-06-04,Ahmedabad
+REV2073,ORD1073,CUST573,Recycled Runner - Navy,1,"Raised a return request 5 days ago, no response from support yet.",2026-08-05,Jaipur
+REV2074,ORD1074,CUST574,Cloud Sneaker - Grey,5,"Perfect for my daily walks, very lightweight.",2026-07-30,Mumbai
+REV2075,ORD1075,CUST575,Everyday Loafer - Tan,2,"Raised a return request 5 days ago, no response from support yet.",2026-06-16,Jaipur
+REV2076,ORD1076,CUST576,Everyday Loafer - Tan,1,"Customer care kept transferring my call, issue still unresolved.",2026-06-05,Jaipur
+REV2077,ORD1077,CUST577,Classic Slip-On - White,4,"Great quality for the price, will definitely buy another pair.",2026-08-20,Mumbai
+REV2078,ORD1078,CUST578,Cloud Sneaker - Grey,1,"Customer care kept transferring my call, issue still unresolved.",2026-06-04,Bengaluru
+REV2079,ORD1079,CUST579,Everyday Loafer - Tan,4,"Love the sustainable materials, feels good to buy consciously.",2026-06-02,Chennai
+REV2080,ORD1080,CUST580,Cloud Sneaker - Grey,2,"Delivery partner delayed twice, no updates on tracking page.",2026-07-25,Hyderabad
+REV2081,ORD1081,CUST581,Classic Slip-On - White,1,Stitching came undone after the first wash.,2026-08-12,Mumbai
+REV2082,ORD1082,CUST582,Wool Blend Sneaker - Charcoal,1,Color faded badly after just a couple of wears in the sun.,2026-05-19,Chennai
+REV2083,ORD1083,CUST583,Cloud Sneaker - Black,1,"Raised a return request 5 days ago, no response from support yet.",2026-06-28,Jaipur
+REV2084,ORD1084,CUST584,Everyday Loafer - Tan,2,Sole started peeling off within three weeks of light use.,2026-07-07,Ahmedabad
+REV2085,ORD1085,CUST585,Everyday Loafer - Tan,2,"Raised a return request 5 days ago, no response from support yet.",2026-06-15,Ahmedabad
+REV2086,ORD1086,CUST586,Kids Comfort Shoe - Blue,3,"Sizing is inconsistent with your last collection, too tight on the sides.",2026-06-02,Chennai
+REV2087,ORD1087,CUST587,Everyday Loafer - Tan,1,"Refund promised in 7 days, it has been 3 weeks now.",2026-07-13,Hyderabad
+REV2088,ORD1088,CUST588,Wool Blend Sneaker - Charcoal,3,Ordered my usual size but it's way too narrow for my feet.,2026-07-25,Ahmedabad
+REV2089,ORD1089,CUST589,Cloud Sneaker - Grey,3,"Delivery partner delayed twice, no updates on tracking page.",2026-06-12,Mumbai
+REV2090,ORD1090,CUST590,Recycled Runner - Navy,2,Took 12 days to arrive even though the site promised 4-5 days.,2026-07-20,Ahmedabad
+REV2091,ORD1091,CUST591,Kids Comfort Shoe - Blue,2,Ordered my usual size but it's way too narrow for my feet.,2026-06-15,Hyderabad
+REV2092,ORD1092,CUST592,Cloud Sneaker - Black,2,"Customer care kept transferring my call, issue still unresolved.",2026-05-30,Bengaluru
+REV2093,ORD1093,CUST593,Classic Slip-On - White,3,"Runs really small, had to return and reorder a size up.",2026-06-06,Hyderabad
+REV2094,ORD1094,CUST594,Trail Runner - Olive,1,Stitching came undone after the first wash.,2026-05-08,Hyderabad
+REV2095,ORD1095,CUST595,Cloud Sneaker - Grey,2,"Raised a return request 5 days ago, no response from support yet.",2026-07-09,Hyderabad
+REV2096,ORD1096,CUST596,Everyday Loafer - Tan,2,"Delivery partner delayed twice, no updates on tracking page.",2026-05-18,Ahmedabad
+REV2097,ORD1097,CUST597,Cloud Sneaker - Grey,1,Stitching came undone after the first wash.,2026-06-03,Bengaluru
+REV2098,ORD1098,CUST598,Wool Blend Sneaker - Charcoal,2,"Delivery partner delayed twice, no updates on tracking page.",2026-08-18,Pune
+REV2099,ORD1099,CUST599,Wool Blend Sneaker - Charcoal,5,"Great quality for the price, will definitely buy another pair.",2026-07-23,Hyderabad
+REV2100,ORD1100,CUST600,Classic Slip-On - White,2,"Runs really small, had to return and reorder a size up.",2026-07-27,Hyderabad
+REV2101,ORD1101,CUST601,Cloud Sneaker - Black,2,"Raised a return request 5 days ago, no response from support yet.",2026-05-09,Bengaluru
+REV2102,ORD1102,CUST602,Classic Slip-On - White,1,"Raised a return request 5 days ago, no response from support yet.",2026-08-05,Hyderabad
+REV2103,ORD1103,CUST603,Classic Slip-On - White,2,Ordered my usual size but it's way too narrow for my feet.,2026-05-25,Jaipur
+REV2104,ORD1104,CUST604,Cloud Sneaker - Black,2,Stitching came undone after the first wash.,2026-06-05,Delhi
+REV2105,ORD1105,CUST605,Kids Comfort Shoe - Blue,2,Sole started peeling off within three weeks of light use.,2026-08-06,Hyderabad
+REV2106,ORD1106,CUST606,Cloud Sneaker - Grey,1,Sole started peeling off within three weeks of light use.,2026-08-10,Jaipur
+REV2107,ORD1107,CUST607,Cloud Sneaker - Grey,3,"Runs really small, had to return and reorder a size up.",2026-07-15,Hyderabad
+REV2108,ORD1108,CUST608,Trail Runner - Olive,5,Fits true to size and looks even better in person.,2026-07-30,Jaipur
+REV2109,ORD1109,CUST609,Recycled Runner - Navy,3,"Runs really small, had to return and reorder a size up.",2026-07-28,Chennai
+REV2110,ORD1110,CUST610,Everyday Loafer - Tan,5,"Great quality for the price, will definitely buy another pair.",2026-08-27,Jaipur
+REV2111,ORD1111,CUST611,Everyday Loafer - Tan,3,"Delivery partner delayed twice, no updates on tracking page.",2026-05-29,Chennai
+REV2112,ORD1112,CUST612,Kids Comfort Shoe - Blue,2,"Refund promised in 7 days, it has been 3 weeks now.",2026-05-12,Jaipur
+REV2113,ORD1113,CUST613,Cloud Sneaker - Grey,5,"Perfect for my daily walks, very lightweight.",2026-06-14,Pune
+REV2114,ORD1114,CUST614,Cloud Sneaker - Black,2,Ordered my usual size but it's way too narrow for my feet.,2026-07-31,Delhi
+REV2115,ORD1115,CUST615,Cloud Sneaker - Grey,5,"Love the sustainable materials, feels good to buy consciously.",2026-05-17,Jaipur
+REV2116,ORD1116,CUST616,Kids Comfort Shoe - Blue,2,Sole started peeling off within three weeks of light use.,2026-07-18,Hyderabad
+REV2117,ORD1117,CUST617,Classic Slip-On - White,1,"Delivery partner delayed twice, no updates on tracking page.",2026-07-14,Ahmedabad
+REV2118,ORD1118,CUST618,Everyday Loafer - Tan,2,"Refund promised in 7 days, it has been 3 weeks now.",2026-06-27,Jaipur
+REV2119,ORD1119,CUST619,Everyday Loafer - Tan,2,"Raised a return request 5 days ago, no response from support yet.",2026-08-23,Ahmedabad
+REV2120,ORD1120,CUST620,Wool Blend Sneaker - Charcoal,3,Ordered my usual size but it's way too narrow for my feet.,2026-06-16,Ahmedabad
+REV2121,ORD1121,CUST621,Cloud Sneaker - Grey,2,"Delivery partner delayed twice, no updates on tracking page.",2026-08-13,Chennai
+REV2122,ORD1122,CUST622,Cloud Sneaker - Grey,1,Color faded badly after just a couple of wears in the sun.,2026-07-15,Bengaluru
+REV2123,ORD1123,CUST623,Kids Comfort Shoe - Blue,3,Box arrived damaged and the shoe had a scuff mark already.,2026-08-05,Delhi
+REV2124,ORD1124,CUST624,Kids Comfort Shoe - Blue,3,"Delivery partner delayed twice, no updates on tracking page.",2026-06-24,Hyderabad
+REV2125,ORD1125,CUST625,Wool Blend Sneaker - Charcoal,1,"Customer care kept transferring my call, issue still unresolved.",2026-08-02,Chennai
+REV2126,ORD1126,CUST626,Everyday Loafer - Tan,1,Box arrived damaged and the shoe had a scuff mark already.,2026-08-07,Pune
+REV2127,ORD1127,CUST627,Trail Runner - Olive,1,Color faded badly after just a couple of wears in the sun.,2026-05-06,Hyderabad
+REV2128,ORD1128,CUST628,Recycled Runner - Navy,2,"Refund promised in 7 days, it has been 3 weeks now.",2026-05-24,Jaipur
+REV2129,ORD1129,CUST629,Trail Runner - Olive,3,Ordered my usual size but it's way too narrow for my feet.,2026-07-26,Mumbai
+REV2130,ORD1130,CUST630,Kids Comfort Shoe - Blue,5,"Super comfortable, wore them all day at work with zero pain.",2026-07-04,Hyderabad
+REV2131,ORD1131,CUST631,Trail Runner - Olive,2,Stitching came undone after the first wash.,2026-07-03,Mumbai
+REV2132,ORD1132,CUST632,Everyday Loafer - Tan,4,"Love the sustainable materials, feels good to buy consciously.",2026-06-28,Pune
+REV2133,ORD1133,CUST633,Recycled Runner - Navy,5,"Super comfortable, wore them all day at work with zero pain.",2026-08-04,Hyderabad
+REV2134,ORD1134,CUST634,Cloud Sneaker - Grey,2,"Customer care kept transferring my call, issue still unresolved.",2026-07-30,Delhi
+REV2135,ORD1135,CUST635,Recycled Runner - Navy,1,Sole started peeling off within three weeks of light use.,2026-07-26,Pune
+REV2136,ORD1136,CUST636,Everyday Loafer - Tan,3,Took 12 days to arrive even though the site promised 4-5 days.,2026-05-16,Ahmedabad
+REV2137,ORD1137,CUST637,Everyday Loafer - Tan,2,"Runs really small, had to return and reorder a size up.",2026-08-12,Chennai
+REV2138,ORD1138,CUST638,Recycled Runner - Navy,2,Sole started peeling off within three weeks of light use.,2026-08-19,Hyderabad
+REV2139,ORD1139,CUST639,Cloud Sneaker - Black,3,Ordered my usual size but it's way too narrow for my feet.,2026-05-14,Ahmedabad
+REV2140,ORD1140,CUST640,Wool Blend Sneaker - Charcoal,5,"Love the sustainable materials, feels good to buy consciously.",2026-06-13,Delhi
+REV2141,ORD1141,CUST641,Wool Blend Sneaker - Charcoal,3,Ordered my usual size but it's way too narrow for my feet.,2026-05-26,Chennai
+REV2142,ORD1142,CUST642,Recycled Runner - Navy,2,"Raised a return request 5 days ago, no response from support yet.",2026-07-25,Pune
+REV2143,ORD1143,CUST643,Trail Runner - Olive,1,"Customer care kept transferring my call, issue still unresolved.",2026-05-11,Delhi
+REV2144,ORD1144,CUST644,Trail Runner - Olive,3,Box arrived damaged and the shoe had a scuff mark already.,2026-07-05,Jaipur
+REV2145,ORD1145,CUST645,Cloud Sneaker - Black,1,Sole started peeling off within three weeks of light use.,2026-07-26,Ahmedabad
+REV2146,ORD1146,CUST646,Kids Comfort Shoe - Blue,5,"Love the sustainable materials, feels good to buy consciously.",2026-06-07,Ahmedabad
+REV2147,ORD1147,CUST647,Recycled Runner - Navy,2,"Sizing is inconsistent with your last collection, too tight on the sides.",2026-06-26,Delhi
+REV2148,ORD1148,CUST648,Classic Slip-On - White,1,Color faded badly after just a couple of wears in the sun.,2026-05-21,Delhi
+REV2149,ORD1149,CUST649,Classic Slip-On - White,2,"Sizing is inconsistent with your last collection, too tight on the sides.",2026-08-29,Mumbai
+REV2150,ORD1150,CUST650,Trail Runner - Olive,5,"Perfect for my daily walks, very lightweight.",2026-06-09,Delhi
+REV2151,ORD1151,CUST651,Cloud Sneaker - Black,1,Took 12 days to arrive even though the site promised 4-5 days.,2026-05-19,Delhi
+REV2152,ORD1152,CUST652,Trail Runner - Olive,3,Box arrived damaged and the shoe had a scuff mark already.,2026-05-11,Hyderabad
+REV2153,ORD1153,CUST653,Kids Comfort Shoe - Blue,1,"Refund promised in 7 days, it has been 3 weeks now.",2026-08-15,Ahmedabad
+REV2154,ORD1154,CUST654,Classic Slip-On - White,2,"Refund promised in 7 days, it has been 3 weeks now.",2026-08-16,Delhi
+REV2155,ORD1155,CUST655,Cloud Sneaker - Grey,3,Box arrived damaged and the shoe had a scuff mark already.,2026-08-25,Ahmedabad
+REV2156,ORD1156,CUST656,Kids Comfort Shoe - Blue,4,"Perfect for my daily walks, very lightweight.",2026-05-18,Mumbai
+REV2157,ORD1157,CUST657,Recycled Runner - Navy,2,Stitching came undone after the first wash.,2026-07-26,Jaipur
+REV2158,ORD1158,CUST658,Cloud Sneaker - Black,3,Ordered my usual size but it's way too narrow for my feet.,2026-07-04,Pune
+REV2159,ORD1159,CUST659,Wool Blend Sneaker - Charcoal,2,Color faded badly after just a couple of wears in the sun.,2026-08-05,Jaipur
+REV2160,ORD1160,CUST660,Recycled Runner - Navy,4,Fits true to size and looks even better in person.,2026-08-05,Bengaluru
+REV2161,ORD1161,CUST661,Wool Blend Sneaker - Charcoal,1,Took 12 days to arrive even though the site promised 4-5 days.,2026-08-17,Mumbai
+REV2162,ORD1162,CUST662,Recycled Runner - Navy,3,Box arrived damaged and the shoe had a scuff mark already.,2026-06-29,Mumbai
+REV2163,ORD1163,CUST663,Everyday Loafer - Tan,1,"Refund promised in 7 days, it has been 3 weeks now.",2026-05-25,Chennai
+REV2164,ORD1164,CUST664,Classic Slip-On - White,1,Took 12 days to arrive even though the site promised 4-5 days.,2026-06-24,Mumbai
+REV2165,ORD1165,CUST665,Classic Slip-On - White,5,"Super comfortable, wore them all day at work with zero pain.",2026-08-27,Jaipur
+REV2166,ORD1166,CUST666,Trail Runner - Olive,2,Stitching came undone after the first wash.,2026-08-12,Hyderabad
+REV2167,ORD1167,CUST667,Trail Runner - Olive,1,"Delivery partner delayed twice, no updates on tracking page.",2026-07-24,Bengaluru
+REV2168,ORD1168,CUST668,Cloud Sneaker - Black,2,"Raised a return request 5 days ago, no response from support yet.",2026-06-26,Pune
+REV2169,ORD1169,CUST669,Everyday Loafer - Tan,4,Fits true to size and looks even better in person.,2026-08-19,Chennai
+REV2170,ORD1170,CUST670,Cloud Sneaker - Grey,2,Box arrived damaged and the shoe had a scuff mark already.,2026-06-13,Mumbai
+REV2171,ORD1171,CUST671,Everyday Loafer - Tan,5,"Love the sustainable materials, feels good to buy consciously.",2026-08-15,Pune
+REV2172,ORD1172,CUST672,Everyday Loafer - Tan,1,Stitching came undone after the first wash.,2026-07-19,Ahmedabad
+REV2173,ORD1173,CUST673,Cloud Sneaker - Grey,2,"Sizing is inconsistent with your last collection, too tight on the sides.",2026-06-02,Delhi
+REV2174,ORD1174,CUST674,Recycled Runner - Navy,1,Box arrived damaged and the shoe had a scuff mark already.,2026-05-10,Mumbai
+REV2175,ORD1175,CUST675,Classic Slip-On - White,5,"Great quality for the price, will definitely buy another pair.",2026-05-18,Chennai
+REV2176,ORD1176,CUST676,Cloud Sneaker - Black,3,"Delivery partner delayed twice, no updates on tracking page.",2026-07-21,Chennai
+REV2177,ORD1177,CUST677,Cloud Sneaker - Black,3,"Runs really small, had to return and reorder a size up.",2026-05-10,Jaipur
+REV2178,ORD1178,CUST678,Wool Blend Sneaker - Charcoal,3,"Delivery partner delayed twice, no updates on tracking page.",2026-06-09,Mumbai
+REV2179,ORD1179,CUST679,Everyday Loafer - Tan,2,"Runs really small, had to return and reorder a size up.",2026-06-05,Chennai
+REV2180,ORD1180,CUST680,Classic Slip-On - White,4,"Perfect for my daily walks, very lightweight.",2026-06-27,Chennai
+REV2181,ORD1181,CUST681,Everyday Loafer - Tan,5,"Perfect for my daily walks, very lightweight.",2026-06-03,Pune
+REV2182,ORD1182,CUST682,Kids Comfort Shoe - Blue,2,"Raised a return request 5 days ago, no response from support yet.",2026-08-16,Ahmedabad
+REV2183,ORD1183,CUST683,Kids Comfort Shoe - Blue,2,Stitching came undone after the first wash.,2026-07-09,Mumbai
+REV2184,ORD1184,CUST684,Cloud Sneaker - Black,4,"Great quality for the price, will definitely buy another pair.",2026-07-08,Hyderabad
+REV2185,ORD1185,CUST685,Cloud Sneaker - Black,2,"Refund promised in 7 days, it has been 3 weeks now.",2026-07-29,Mumbai
+REV2186,ORD1186,CUST686,Cloud Sneaker - Grey,3,"Sizing is inconsistent with your last collection, too tight on the sides.",2026-08-23,Ahmedabad
+REV2187,ORD1187,CUST687,Trail Runner - Olive,1,Color faded badly after just a couple of wears in the sun.,2026-06-30,Delhi
+REV2188,ORD1188,CUST688,Classic Slip-On - White,1,"Refund promised in 7 days, it has been 3 weeks now.",2026-07-06,Ahmedabad
+REV2189,ORD1189,CUST689,Everyday Loafer - Tan,1,Color faded badly after just a couple of wears in the sun.,2026-07-06,Jaipur
+REV2190,ORD1190,CUST690,Recycled Runner - Navy,2,"Delivery partner delayed twice, no updates on tracking page.",2026-07-23,Mumbai
+REV2191,ORD1191,CUST691,Trail Runner - Olive,5,"Perfect for my daily walks, very lightweight.",2026-05-22,Chennai
+REV2192,ORD1192,CUST692,Trail Runner - Olive,3,"Delivery partner delayed twice, no updates on tracking page.",2026-06-19,Mumbai
+REV2193,ORD1193,CUST693,Cloud Sneaker - Black,5,"Super comfortable, wore them all day at work with zero pain.",2026-07-12,Jaipur
+REV2194,ORD1194,CUST694,Classic Slip-On - White,2,"Sizing is inconsistent with your last collection, too tight on the sides.",2026-08-16,Chennai
+REV2195,ORD1195,CUST695,Cloud Sneaker - Black,5,"Love the sustainable materials, feels good to buy consciously.",2026-08-31,Hyderabad
+REV2196,ORD1196,CUST696,Trail Runner - Olive,2,"Runs really small, had to return and reorder a size up.",2026-05-24,Jaipur
+REV2197,ORD1197,CUST697,Wool Blend Sneaker - Charcoal,3,Ordered my usual size but it's way too narrow for my feet.,2026-08-08,Chennai
+REV2198,ORD1198,CUST698,Classic Slip-On - White,1,"Customer care kept transferring my call, issue still unresolved.",2026-06-23,Pune
+REV2199,ORD1199,CUST699,Kids Comfort Shoe - Blue,3,"Delivery partner delayed twice, no updates on tracking page.",2026-08-13,Ahmedabad
+REV2200,ORD1200,CUST700,Classic Slip-On - White,2,"Customer care kept transferring my call, issue still unresolved.",2026-06-04,Bengaluru
+REV2201,ORD1201,CUST701,Cloud Sneaker - Black,3,"Runs really small, had to return and reorder a size up.",2026-05-25,Hyderabad
+REV2202,ORD1202,CUST702,Trail Runner - Olive,2,"Raised a return request 5 days ago, no response from support yet.",2026-05-17,Jaipur
+REV2203,ORD1203,CUST703,Cloud Sneaker - Grey,3,Ordered my usual size but it's way too narrow for my feet.,2026-07-11,Jaipur
+REV2204,ORD1204,CUST704,Classic Slip-On - White,1,Color faded badly after just a couple of wears in the sun.,2026-06-13,Delhi
+REV2205,ORD1205,CUST705,Everyday Loafer - Tan,2,"Customer care kept transferring my call, issue still unresolved.",2026-08-02,Ahmedabad
+REV2206,ORD1206,CUST706,Cloud Sneaker - Grey,2,"Refund promised in 7 days, it has been 3 weeks now.",2026-06-01,Hyderabad
+REV2207,ORD1207,CUST707,Classic Slip-On - White,3,Ordered my usual size but it's way too narrow for my feet.,2026-05-18,Hyderabad
+REV2208,ORD1208,CUST708,Cloud Sneaker - Black,5,"Super comfortable, wore them all day at work with zero pain.",2026-07-26,Ahmedabad
+REV2209,ORD1209,CUST709,Everyday Loafer - Tan,1,Took 12 days to arrive even though the site promised 4-5 days.,2026-05-12,Jaipur
+REV2210,ORD1210,CUST710,Cloud Sneaker - Black,1,"Refund promised in 7 days, it has been 3 weeks now.",2026-05-19,Chennai
+REV2211,ORD1211,CUST711,Cloud Sneaker - Grey,5,"Super comfortable, wore them all day at work with zero pain.",2026-06-23,Jaipur
+REV2212,ORD1212,CUST712,Classic Slip-On - White,1,Color faded badly after just a couple of wears in the sun.,2026-08-18,Mumbai
+REV2213,ORD1213,CUST713,Recycled Runner - Navy,2,"Raised a return request 5 days ago, no response from support yet.",2026-08-29,Bengaluru
+REV2214,ORD1214,CUST714,Cloud Sneaker - Black,2,"Sizing is inconsistent with your last collection, too tight on the sides.",2026-05-11,Ahmedabad
+REV2215,ORD1215,CUST715,Recycled Runner - Navy,2,"Customer care kept transferring my call, issue still unresolved.",2026-07-13,Hyderabad
+REV2216,ORD1216,CUST716,Everyday Loafer - Tan,5,"Great quality for the price, will definitely buy another pair.",2026-09-02,Chennai
+REV2217,ORD1217,CUST717,Cloud Sneaker - Black,2,"Raised a return request 5 days ago, no response from support yet.",2026-07-03,Chennai
+REV2218,ORD1218,CUST718,Kids Comfort Shoe - Blue,2,"Refund promised in 7 days, it has been 3 weeks now.",2026-07-01,Ahmedabad
+REV2219,ORD1219,CUST719,Cloud Sneaker - Black,2,Stitching came undone after the first wash.,2026-07-21,Jaipur
+REV2220,ORD1220,CUST720,Recycled Runner - Navy,1,Box arrived damaged and the shoe had a scuff mark already.,2026-06-18,Hyderabad

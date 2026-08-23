@@ -1,0 +1,7 @@
+streamlit
+pandas
+anthropic
+openai
+google-genai
+json-repair
+reportlab

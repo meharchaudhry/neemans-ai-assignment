@@ -1,0 +1,97 @@
+week,week_start,product,channel,spend_inr,impressions
+W1,2026-05-01,Cloud Sneaker - Grey,Meta Ads,28489,256401
+W1,2026-05-01,Cloud Sneaker - Black,Meta Ads,20194,222134
+W1,2026-05-01,Trail Runner - Olive,Influencer,22632,203688
+W1,2026-05-01,Classic Slip-On - White,Google Ads,29384,264456
+W1,2026-05-01,Everyday Loafer - Tan,Meta Ads,22088,176704
+W1,2026-05-01,Recycled Runner - Navy,Google Ads,23488,234880
+W1,2026-05-01,Wool Blend Sneaker - Charcoal,Google Ads,17697,176970
+W1,2026-05-01,Kids Comfort Shoe - Blue,Google Ads,26621,266210
+W2,2026-05-08,Cloud Sneaker - Grey,Influencer,24064,192512
+W2,2026-05-08,Cloud Sneaker - Black,Email,21329,255948
+W2,2026-05-08,Trail Runner - Olive,Meta Ads,19582,176238
+W2,2026-05-08,Classic Slip-On - White,Email,16584,165840
+W2,2026-05-08,Everyday Loafer - Tan,Influencer,28023,336276
+W2,2026-05-08,Recycled Runner - Navy,Google Ads,20990,188910
+W2,2026-05-08,Wool Blend Sneaker - Charcoal,Email,24870,298440
+W2,2026-05-08,Kids Comfort Shoe - Blue,Meta Ads,15659,125272
+W3,2026-05-15,Cloud Sneaker - Grey,Influencer,22247,244717
+W3,2026-05-15,Cloud Sneaker - Black,Google Ads,18505,222060
+W3,2026-05-15,Trail Runner - Olive,Influencer,19442,174978
+W3,2026-05-15,Classic Slip-On - White,Google Ads,16789,151101
+W3,2026-05-15,Everyday Loafer - Tan,Google Ads,15831,142479
+W3,2026-05-15,Recycled Runner - Navy,Meta Ads,15860,174460
+W3,2026-05-15,Wool Blend Sneaker - Charcoal,Email,20411,163288
+W3,2026-05-15,Kids Comfort Shoe - Blue,Google Ads,26160,209280
+W4,2026-05-22,Cloud Sneaker - Grey,Google Ads,29792,357504
+W4,2026-05-22,Cloud Sneaker - Black,Google Ads,23792,214128
+W4,2026-05-22,Trail Runner - Olive,Email,20375,163000
+W4,2026-05-22,Classic Slip-On - White,Google Ads,26145,313740
+W4,2026-05-22,Everyday Loafer - Tan,Meta Ads,23008,276096
+W4,2026-05-22,Recycled Runner - Navy,Meta Ads,22298,245278
+W4,2026-05-22,Wool Blend Sneaker - Charcoal,Email,17161,188771
+W4,2026-05-22,Kids Comfort Shoe - Blue,Meta Ads,24239,290868
+W5,2026-05-29,Cloud Sneaker - Grey,Google Ads,28915,289150
+W5,2026-05-29,Cloud Sneaker - Black,Google Ads,29049,319539
+W5,2026-05-29,Trail Runner - Olive,Meta Ads,29987,359844
+W5,2026-05-29,Classic Slip-On - White,Email,21761,261132
+W5,2026-05-29,Everyday Loafer - Tan,Google Ads,23683,260513
+W5,2026-05-29,Recycled Runner - Navy,Influencer,18978,170802
+W5,2026-05-29,Wool Blend Sneaker - Charcoal,Meta Ads,20411,224521
+W5,2026-05-29,Kids Comfort Shoe - Blue,Influencer,28879,231032
+W6,2026-06-05,Cloud Sneaker - Grey,Meta Ads,16753,201036
+W6,2026-06-05,Cloud Sneaker - Black,Google Ads,17439,156951
+W6,2026-06-05,Trail Runner - Olive,Influencer,25154,251540
+W6,2026-06-05,Classic Slip-On - White,Email,19379,155032
+W6,2026-06-05,Everyday Loafer - Tan,Email,21112,232232
+W6,2026-06-05,Recycled Runner - Navy,Google Ads,24256,218304
+W6,2026-06-05,Wool Blend Sneaker - Charcoal,Meta Ads,19914,159312
+W6,2026-06-05,Kids Comfort Shoe - Blue,Email,16531,181841
+W7,2026-06-12,Cloud Sneaker - Grey,Email,26228,236052
+W7,2026-06-12,Cloud Sneaker - Black,Influencer,17274,172740
+W7,2026-06-12,Trail Runner - Olive,Email,19397,174573
+W7,2026-06-12,Classic Slip-On - White,Google Ads,16036,176396
+W7,2026-06-12,Everyday Loafer - Tan,Email,19521,195210
+W7,2026-06-12,Recycled Runner - Navy,Meta Ads,22933,229330
+W7,2026-06-12,Wool Blend Sneaker - Charcoal,Google Ads,19123,210353
+W7,2026-06-12,Kids Comfort Shoe - Blue,Google Ads,24728,272008
+W8,2026-06-19,Cloud Sneaker - Grey,Google Ads,5569,66828
+W8,2026-06-19,Cloud Sneaker - Black,Influencer,22912,252032
+W8,2026-06-19,Trail Runner - Olive,Email,16599,182589
+W8,2026-06-19,Classic Slip-On - White,Meta Ads,20225,202250
+W8,2026-06-19,Everyday Loafer - Tan,Meta Ads,15732,125856
+W8,2026-06-19,Recycled Runner - Navy,Influencer,28912,231296
+W8,2026-06-19,Wool Blend Sneaker - Charcoal,Google Ads,26094,234846
+W8,2026-06-19,Kids Comfort Shoe - Blue,Google Ads,23454,281448
+W9,2026-06-26,Cloud Sneaker - Grey,Email,5490,65880
+W9,2026-06-26,Cloud Sneaker - Black,Email,18580,148640
+W9,2026-06-26,Trail Runner - Olive,Google Ads,27058,270580
+W9,2026-06-26,Classic Slip-On - White,Meta Ads,29332,322652
+W9,2026-06-26,Everyday Loafer - Tan,Influencer,19305,154440
+W9,2026-06-26,Recycled Runner - Navy,Meta Ads,22193,199737
+W9,2026-06-26,Wool Blend Sneaker - Charcoal,Influencer,18438,221256
+W9,2026-06-26,Kids Comfort Shoe - Blue,Email,25367,228303
+W10,2026-07-03,Cloud Sneaker - Grey,Email,17165,137320
+W10,2026-07-03,Cloud Sneaker - Black,Email,18751,150008
+W10,2026-07-03,Trail Runner - Olive,Meta Ads,26972,215776
+W10,2026-07-03,Classic Slip-On - White,Influencer,20133,201330
+W10,2026-07-03,Everyday Loafer - Tan,Email,17246,155214
+W10,2026-07-03,Recycled Runner - Navy,Google Ads,25511,204088
+W10,2026-07-03,Wool Blend Sneaker - Charcoal,Meta Ads,23691,284292
+W10,2026-07-03,Kids Comfort Shoe - Blue,Google Ads,25649,282139
+W11,2026-07-10,Cloud Sneaker - Grey,Google Ads,21092,210920
+W11,2026-07-10,Cloud Sneaker - Black,Meta Ads,27008,216064
+W11,2026-07-10,Trail Runner - Olive,Email,20488,204880
+W11,2026-07-10,Classic Slip-On - White,Meta Ads,23582,235820
+W11,2026-07-10,Everyday Loafer - Tan,Meta Ads,26670,293370
+W11,2026-07-10,Recycled Runner - Navy,Influencer,22457,179656
+W11,2026-07-10,Wool Blend Sneaker - Charcoal,Google Ads,23185,231850
+W11,2026-07-10,Kids Comfort Shoe - Blue,Influencer,17577,140616
+W12,2026-07-17,Cloud Sneaker - Grey,Google Ads,20870,229570
+W12,2026-07-17,Cloud Sneaker - Black,Email,20051,200510
+W12,2026-07-17,Trail Runner - Olive,Meta Ads,28967,231736
+W12,2026-07-17,Classic Slip-On - White,Influencer,17582,210984
+W12,2026-07-17,Everyday Loafer - Tan,Google Ads,15660,156600
+W12,2026-07-17,Recycled Runner - Navy,Meta Ads,17430,156870
+W12,2026-07-17,Wool Blend Sneaker - Charcoal,Email,20828,249936
+W12,2026-07-17,Kids Comfort Shoe - Blue,Influencer,15802,158020

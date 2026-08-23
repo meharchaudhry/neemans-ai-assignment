@@ -1,0 +1,221 @@
+order_id,customer_id,product,order_date,quantity,price_inr,city
+ORD1001,CUST501,Cloud Sneaker - Black,2026-08-03,1,1799,Delhi
+ORD1002,CUST502,Cloud Sneaker - Black,2026-05-05,1,2799,Jaipur
+ORD1003,CUST503,Cloud Sneaker - Grey,2026-07-31,2,2799,Pune
+ORD1004,CUST504,Everyday Loafer - Tan,2026-08-06,1,2299,Delhi
+ORD1005,CUST505,Trail Runner - Olive,2026-08-06,2,1799,Pune
+ORD1006,CUST506,Recycled Runner - Navy,2026-07-17,2,2799,Chennai
+ORD1007,CUST507,Cloud Sneaker - Black,2026-05-11,1,1799,Jaipur
+ORD1008,CUST508,Cloud Sneaker - Grey,2026-08-07,1,2499,Pune
+ORD1009,CUST509,Everyday Loafer - Tan,2026-07-21,1,1999,Ahmedabad
+ORD1010,CUST510,Everyday Loafer - Tan,2026-07-17,1,2499,Mumbai
+ORD1011,CUST511,Wool Blend Sneaker - Charcoal,2026-07-21,1,1999,Hyderabad
+ORD1012,CUST512,Cloud Sneaker - Grey,2026-06-21,1,1999,Chennai
+ORD1013,CUST513,Kids Comfort Shoe - Blue,2026-07-22,1,1999,Jaipur
+ORD1014,CUST514,Everyday Loafer - Tan,2026-07-14,1,2799,Jaipur
+ORD1015,CUST515,Kids Comfort Shoe - Blue,2026-08-05,1,2499,Mumbai
+ORD1016,CUST516,Cloud Sneaker - Black,2026-06-18,1,1799,Jaipur
+ORD1017,CUST517,Everyday Loafer - Tan,2026-05-15,2,1799,Chennai
+ORD1018,CUST518,Everyday Loafer - Tan,2026-07-04,1,2299,Bengaluru
+ORD1019,CUST519,Trail Runner - Olive,2026-07-16,1,2299,Delhi
+ORD1020,CUST520,Everyday Loafer - Tan,2026-05-08,2,1799,Pune
+ORD1021,CUST521,Trail Runner - Olive,2026-07-24,2,1999,Bengaluru
+ORD1022,CUST522,Classic Slip-On - White,2026-06-21,2,1799,Hyderabad
+ORD1023,CUST523,Classic Slip-On - White,2026-05-09,1,2799,Pune
+ORD1024,CUST524,Classic Slip-On - White,2026-05-10,1,1799,Delhi
+ORD1025,CUST525,Recycled Runner - Navy,2026-07-05,1,2799,Mumbai
+ORD1026,CUST526,Trail Runner - Olive,2026-06-01,1,1799,Ahmedabad
+ORD1027,CUST527,Cloud Sneaker - Black,2026-06-15,1,1799,Jaipur
+ORD1028,CUST528,Cloud Sneaker - Grey,2026-08-02,1,1999,Jaipur
+ORD1029,CUST529,Kids Comfort Shoe - Blue,2026-06-24,1,1799,Bengaluru
+ORD1030,CUST530,Kids Comfort Shoe - Blue,2026-05-07,1,1999,Mumbai
+ORD1031,CUST531,Wool Blend Sneaker - Charcoal,2026-07-01,1,2499,Ahmedabad
+ORD1032,CUST532,Cloud Sneaker - Grey,2026-06-03,2,2799,Jaipur
+ORD1033,CUST533,Kids Comfort Shoe - Blue,2026-05-25,1,2299,Bengaluru
+ORD1034,CUST534,Cloud Sneaker - Grey,2026-07-14,1,2799,Delhi
+ORD1035,CUST535,Cloud Sneaker - Black,2026-05-09,1,2499,Bengaluru
+ORD1036,CUST536,Cloud Sneaker - Black,2026-07-14,1,2499,Pune
+ORD1037,CUST537,Recycled Runner - Navy,2026-05-27,1,2499,Hyderabad
+ORD1038,CUST538,Trail Runner - Olive,2026-06-28,2,2799,Hyderabad
+ORD1039,CUST539,Cloud Sneaker - Black,2026-07-08,1,2299,Mumbai
+ORD1040,CUST540,Cloud Sneaker - Black,2026-06-17,1,2799,Pune
+ORD1041,CUST541,Cloud Sneaker - Grey,2026-07-24,1,1799,Hyderabad
+ORD1042,CUST542,Trail Runner - Olive,2026-06-06,1,2299,Hyderabad
+ORD1043,CUST543,Kids Comfort Shoe - Blue,2026-08-17,2,2299,Hyderabad
+ORD1044,CUST544,Cloud Sneaker - Grey,2026-06-12,1,1999,Delhi
+ORD1045,CUST545,Kids Comfort Shoe - Blue,2026-07-11,1,2799,Jaipur
+ORD1046,CUST546,Cloud Sneaker - Grey,2026-07-14,1,1799,Chennai
+ORD1047,CUST547,Everyday Loafer - Tan,2026-08-10,1,1799,Chennai
+ORD1048,CUST548,Recycled Runner - Navy,2026-07-19,1,1999,Jaipur
+ORD1049,CUST549,Wool Blend Sneaker - Charcoal,2026-05-23,1,2299,Delhi
+ORD1050,CUST550,Trail Runner - Olive,2026-06-18,1,2499,Mumbai
+ORD1051,CUST551,Recycled Runner - Navy,2026-08-14,1,1999,Hyderabad
+ORD1052,CUST552,Wool Blend Sneaker - Charcoal,2026-06-05,2,2799,Chennai
+ORD1053,CUST553,Recycled Runner - Navy,2026-05-15,1,1799,Delhi
+ORD1054,CUST554,Wool Blend Sneaker - Charcoal,2026-08-02,1,2499,Chennai
+ORD1055,CUST555,Classic Slip-On - White,2026-05-06,1,2299,Hyderabad
+ORD1056,CUST556,Wool Blend Sneaker - Charcoal,2026-07-25,1,2799,Mumbai
+ORD1057,CUST557,Everyday Loafer - Tan,2026-06-11,1,2499,Jaipur
+ORD1058,CUST558,Wool Blend Sneaker - Charcoal,2026-07-18,1,2299,Bengaluru
+ORD1059,CUST559,Everyday Loafer - Tan,2026-06-25,2,2499,Pune
+ORD1060,CUST560,Classic Slip-On - White,2026-08-10,1,2799,Ahmedabad
+ORD1061,CUST561,Recycled Runner - Navy,2026-08-13,1,1999,Mumbai
+ORD1062,CUST562,Trail Runner - Olive,2026-05-06,2,2499,Delhi
+ORD1063,CUST563,Classic Slip-On - White,2026-07-03,1,1799,Jaipur
+ORD1064,CUST564,Wool Blend Sneaker - Charcoal,2026-05-23,1,2799,Pune
+ORD1065,CUST565,Classic Slip-On - White,2026-06-28,2,2799,Mumbai
+ORD1066,CUST566,Wool Blend Sneaker - Charcoal,2026-05-21,1,1999,Ahmedabad
+ORD1067,CUST567,Everyday Loafer - Tan,2026-07-20,1,2299,Ahmedabad
+ORD1068,CUST568,Classic Slip-On - White,2026-06-12,1,1999,Hyderabad
+ORD1069,CUST569,Wool Blend Sneaker - Charcoal,2026-07-30,2,2299,Bengaluru
+ORD1070,CUST570,Kids Comfort Shoe - Blue,2026-05-08,1,2799,Jaipur
+ORD1071,CUST571,Wool Blend Sneaker - Charcoal,2026-05-01,2,2799,Ahmedabad
+ORD1072,CUST572,Classic Slip-On - White,2026-05-29,1,2499,Ahmedabad
+ORD1073,CUST573,Recycled Runner - Navy,2026-08-01,1,2499,Jaipur
+ORD1074,CUST574,Cloud Sneaker - Grey,2026-07-22,1,1799,Mumbai
+ORD1075,CUST575,Everyday Loafer - Tan,2026-06-11,1,2499,Jaipur
+ORD1076,CUST576,Everyday Loafer - Tan,2026-06-02,1,2299,Jaipur
+ORD1077,CUST577,Classic Slip-On - White,2026-08-08,1,1999,Mumbai
+ORD1078,CUST578,Cloud Sneaker - Grey,2026-05-31,1,2499,Bengaluru
+ORD1079,CUST579,Everyday Loafer - Tan,2026-05-22,1,1799,Chennai
+ORD1080,CUST580,Cloud Sneaker - Grey,2026-07-13,1,1799,Hyderabad
+ORD1081,CUST581,Classic Slip-On - White,2026-07-29,1,2299,Mumbai
+ORD1082,CUST582,Wool Blend Sneaker - Charcoal,2026-05-09,2,2499,Chennai
+ORD1083,CUST583,Cloud Sneaker - Black,2026-06-16,2,1999,Jaipur
+ORD1084,CUST584,Everyday Loafer - Tan,2026-06-29,1,1799,Ahmedabad
+ORD1085,CUST585,Everyday Loafer - Tan,2026-06-01,1,1799,Ahmedabad
+ORD1086,CUST586,Kids Comfort Shoe - Blue,2026-05-24,1,2299,Chennai
+ORD1087,CUST587,Everyday Loafer - Tan,2026-07-11,1,1999,Hyderabad
+ORD1088,CUST588,Wool Blend Sneaker - Charcoal,2026-07-11,2,2499,Ahmedabad
+ORD1089,CUST589,Cloud Sneaker - Grey,2026-06-07,1,2299,Mumbai
+ORD1090,CUST590,Recycled Runner - Navy,2026-07-10,1,2299,Ahmedabad
+ORD1091,CUST591,Kids Comfort Shoe - Blue,2026-06-09,1,2299,Hyderabad
+ORD1092,CUST592,Cloud Sneaker - Black,2026-05-25,1,1799,Bengaluru
+ORD1093,CUST593,Classic Slip-On - White,2026-05-30,1,2799,Hyderabad
+ORD1094,CUST594,Trail Runner - Olive,2026-05-06,2,1799,Hyderabad
+ORD1095,CUST595,Cloud Sneaker - Grey,2026-06-30,1,1799,Hyderabad
+ORD1096,CUST596,Everyday Loafer - Tan,2026-05-15,1,2799,Ahmedabad
+ORD1097,CUST597,Cloud Sneaker - Grey,2026-05-20,1,1799,Bengaluru
+ORD1098,CUST598,Wool Blend Sneaker - Charcoal,2026-08-08,2,2299,Pune
+ORD1099,CUST599,Wool Blend Sneaker - Charcoal,2026-07-12,1,1999,Hyderabad
+ORD1100,CUST600,Classic Slip-On - White,2026-07-24,1,2799,Hyderabad
+ORD1101,CUST601,Cloud Sneaker - Black,2026-05-01,1,1799,Bengaluru
+ORD1102,CUST602,Classic Slip-On - White,2026-07-30,1,2299,Hyderabad
+ORD1103,CUST603,Classic Slip-On - White,2026-05-15,1,1999,Jaipur
+ORD1104,CUST604,Cloud Sneaker - Black,2026-05-22,2,1799,Delhi
+ORD1105,CUST605,Kids Comfort Shoe - Blue,2026-07-29,2,1799,Hyderabad
+ORD1106,CUST606,Cloud Sneaker - Grey,2026-08-03,1,1999,Jaipur
+ORD1107,CUST607,Cloud Sneaker - Grey,2026-07-13,2,2299,Hyderabad
+ORD1108,CUST608,Trail Runner - Olive,2026-07-21,1,2499,Jaipur
+ORD1109,CUST609,Recycled Runner - Navy,2026-07-25,2,2499,Chennai
+ORD1110,CUST610,Everyday Loafer - Tan,2026-08-13,1,2299,Jaipur
+ORD1111,CUST611,Everyday Loafer - Tan,2026-05-15,1,2799,Chennai
+ORD1112,CUST612,Kids Comfort Shoe - Blue,2026-05-07,2,2499,Jaipur
+ORD1113,CUST613,Cloud Sneaker - Grey,2026-06-04,2,2499,Pune
+ORD1114,CUST614,Cloud Sneaker - Black,2026-07-20,1,2799,Delhi
+ORD1115,CUST615,Cloud Sneaker - Grey,2026-05-12,1,1999,Jaipur
+ORD1116,CUST616,Kids Comfort Shoe - Blue,2026-07-05,2,2499,Hyderabad
+ORD1117,CUST617,Classic Slip-On - White,2026-07-10,1,1799,Ahmedabad
+ORD1118,CUST618,Everyday Loafer - Tan,2026-06-13,1,2299,Jaipur
+ORD1119,CUST619,Everyday Loafer - Tan,2026-08-19,1,2299,Ahmedabad
+ORD1120,CUST620,Wool Blend Sneaker - Charcoal,2026-06-11,1,2499,Ahmedabad
+ORD1121,CUST621,Cloud Sneaker - Grey,2026-08-04,1,2499,Chennai
+ORD1122,CUST622,Cloud Sneaker - Grey,2026-07-04,2,1799,Bengaluru
+ORD1123,CUST623,Kids Comfort Shoe - Blue,2026-08-01,1,1799,Delhi
+ORD1124,CUST624,Kids Comfort Shoe - Blue,2026-06-13,1,2299,Hyderabad
+ORD1125,CUST625,Wool Blend Sneaker - Charcoal,2026-07-20,1,1999,Chennai
+ORD1126,CUST626,Everyday Loafer - Tan,2026-08-04,1,2499,Pune
+ORD1127,CUST627,Trail Runner - Olive,2026-05-04,1,2299,Hyderabad
+ORD1128,CUST628,Recycled Runner - Navy,2026-05-19,1,1999,Jaipur
+ORD1129,CUST629,Trail Runner - Olive,2026-07-18,1,1999,Mumbai
+ORD1130,CUST630,Kids Comfort Shoe - Blue,2026-06-28,1,2799,Hyderabad
+ORD1131,CUST631,Trail Runner - Olive,2026-06-26,1,2499,Mumbai
+ORD1132,CUST632,Everyday Loafer - Tan,2026-06-19,2,2799,Pune
+ORD1133,CUST633,Recycled Runner - Navy,2026-07-29,2,2299,Hyderabad
+ORD1134,CUST634,Cloud Sneaker - Grey,2026-07-17,1,2799,Delhi
+ORD1135,CUST635,Recycled Runner - Navy,2026-07-21,1,1799,Pune
+ORD1136,CUST636,Everyday Loafer - Tan,2026-05-05,1,1799,Ahmedabad
+ORD1137,CUST637,Everyday Loafer - Tan,2026-08-04,1,2799,Chennai
+ORD1138,CUST638,Recycled Runner - Navy,2026-08-15,1,2299,Hyderabad
+ORD1139,CUST639,Cloud Sneaker - Black,2026-05-10,1,1799,Ahmedabad
+ORD1140,CUST640,Wool Blend Sneaker - Charcoal,2026-06-03,1,2299,Delhi
+ORD1141,CUST641,Wool Blend Sneaker - Charcoal,2026-05-14,1,2799,Chennai
+ORD1142,CUST642,Recycled Runner - Navy,2026-07-22,2,1799,Pune
+ORD1143,CUST643,Trail Runner - Olive,2026-05-05,1,1999,Delhi
+ORD1144,CUST644,Trail Runner - Olive,2026-06-28,1,2499,Jaipur
+ORD1145,CUST645,Cloud Sneaker - Black,2026-07-18,1,1999,Ahmedabad
+ORD1146,CUST646,Kids Comfort Shoe - Blue,2026-05-31,1,2799,Ahmedabad
+ORD1147,CUST647,Recycled Runner - Navy,2026-06-20,2,1799,Delhi
+ORD1148,CUST648,Classic Slip-On - White,2026-05-07,1,2799,Delhi
+ORD1149,CUST649,Classic Slip-On - White,2026-08-15,1,2299,Mumbai
+ORD1150,CUST650,Trail Runner - Olive,2026-06-05,1,1999,Delhi
+ORD1151,CUST651,Cloud Sneaker - Black,2026-05-17,1,1799,Delhi
+ORD1152,CUST652,Trail Runner - Olive,2026-05-07,1,1799,Hyderabad
+ORD1153,CUST653,Kids Comfort Shoe - Blue,2026-08-08,2,2799,Ahmedabad
+ORD1154,CUST654,Classic Slip-On - White,2026-08-02,2,1799,Delhi
+ORD1155,CUST655,Cloud Sneaker - Grey,2026-08-17,1,2499,Ahmedabad
+ORD1156,CUST656,Kids Comfort Shoe - Blue,2026-05-11,1,2299,Mumbai
+ORD1157,CUST657,Recycled Runner - Navy,2026-07-16,2,1799,Jaipur
+ORD1158,CUST658,Cloud Sneaker - Black,2026-06-25,1,2499,Pune
+ORD1159,CUST659,Wool Blend Sneaker - Charcoal,2026-08-02,1,2299,Jaipur
+ORD1160,CUST660,Recycled Runner - Navy,2026-07-27,1,1799,Bengaluru
+ORD1161,CUST661,Wool Blend Sneaker - Charcoal,2026-08-04,1,2799,Mumbai
+ORD1162,CUST662,Recycled Runner - Navy,2026-06-22,1,2299,Mumbai
+ORD1163,CUST663,Everyday Loafer - Tan,2026-05-14,1,2499,Chennai
+ORD1164,CUST664,Classic Slip-On - White,2026-06-14,1,2799,Mumbai
+ORD1165,CUST665,Classic Slip-On - White,2026-08-17,1,1799,Jaipur
+ORD1166,CUST666,Trail Runner - Olive,2026-07-29,1,1799,Hyderabad
+ORD1167,CUST667,Trail Runner - Olive,2026-07-12,1,1799,Bengaluru
+ORD1168,CUST668,Cloud Sneaker - Black,2026-06-18,1,2299,Pune
+ORD1169,CUST669,Everyday Loafer - Tan,2026-08-08,1,1999,Chennai
+ORD1170,CUST670,Cloud Sneaker - Grey,2026-06-04,2,2499,Mumbai
+ORD1171,CUST671,Everyday Loafer - Tan,2026-08-05,2,1799,Pune
+ORD1172,CUST672,Everyday Loafer - Tan,2026-07-07,1,2499,Ahmedabad
+ORD1173,CUST673,Cloud Sneaker - Grey,2026-05-27,1,2299,Delhi
+ORD1174,CUST674,Recycled Runner - Navy,2026-05-01,1,2499,Mumbai
+ORD1175,CUST675,Classic Slip-On - White,2026-05-10,1,2499,Chennai
+ORD1176,CUST676,Cloud Sneaker - Black,2026-07-13,2,2299,Chennai
+ORD1177,CUST677,Cloud Sneaker - Black,2026-05-03,1,1799,Jaipur
+ORD1178,CUST678,Wool Blend Sneaker - Charcoal,2026-06-01,1,2499,Mumbai
+ORD1179,CUST679,Everyday Loafer - Tan,2026-05-29,1,2799,Chennai
+ORD1180,CUST680,Classic Slip-On - White,2026-06-14,1,1999,Chennai
+ORD1181,CUST681,Everyday Loafer - Tan,2026-05-23,1,1999,Pune
+ORD1182,CUST682,Kids Comfort Shoe - Blue,2026-08-05,1,1999,Ahmedabad
+ORD1183,CUST683,Kids Comfort Shoe - Blue,2026-06-30,1,2299,Mumbai
+ORD1184,CUST684,Cloud Sneaker - Black,2026-06-29,1,2299,Hyderabad
+ORD1185,CUST685,Cloud Sneaker - Black,2026-07-18,2,2799,Mumbai
+ORD1186,CUST686,Cloud Sneaker - Grey,2026-08-12,2,2799,Ahmedabad
+ORD1187,CUST687,Trail Runner - Olive,2026-06-27,1,1799,Delhi
+ORD1188,CUST688,Classic Slip-On - White,2026-06-26,1,2299,Ahmedabad
+ORD1189,CUST689,Everyday Loafer - Tan,2026-06-22,1,1799,Jaipur
+ORD1190,CUST690,Recycled Runner - Navy,2026-07-11,1,2799,Mumbai
+ORD1191,CUST691,Trail Runner - Olive,2026-05-11,1,2499,Chennai
+ORD1192,CUST692,Trail Runner - Olive,2026-06-09,1,1999,Mumbai
+ORD1193,CUST693,Cloud Sneaker - Black,2026-07-05,1,1999,Jaipur
+ORD1194,CUST694,Classic Slip-On - White,2026-08-07,1,1999,Chennai
+ORD1195,CUST695,Cloud Sneaker - Black,2026-08-17,1,2299,Hyderabad
+ORD1196,CUST696,Trail Runner - Olive,2026-05-20,2,1799,Jaipur
+ORD1197,CUST697,Wool Blend Sneaker - Charcoal,2026-07-26,1,2499,Chennai
+ORD1198,CUST698,Classic Slip-On - White,2026-06-09,1,2799,Pune
+ORD1199,CUST699,Kids Comfort Shoe - Blue,2026-08-07,2,1999,Ahmedabad
+ORD1200,CUST700,Classic Slip-On - White,2026-06-02,1,2799,Bengaluru
+ORD1201,CUST701,Cloud Sneaker - Black,2026-05-11,2,2799,Hyderabad
+ORD1202,CUST702,Trail Runner - Olive,2026-05-12,1,2499,Jaipur
+ORD1203,CUST703,Cloud Sneaker - Grey,2026-07-04,1,2299,Jaipur
+ORD1204,CUST704,Classic Slip-On - White,2026-06-10,1,1799,Delhi
+ORD1205,CUST705,Everyday Loafer - Tan,2026-07-29,1,1799,Ahmedabad
+ORD1206,CUST706,Cloud Sneaker - Grey,2026-05-28,1,2299,Hyderabad
+ORD1207,CUST707,Classic Slip-On - White,2026-05-16,2,1799,Hyderabad
+ORD1208,CUST708,Cloud Sneaker - Black,2026-07-16,1,1999,Ahmedabad
+ORD1209,CUST709,Everyday Loafer - Tan,2026-05-01,2,1999,Jaipur
+ORD1210,CUST710,Cloud Sneaker - Black,2026-05-09,2,2499,Chennai
+ORD1211,CUST711,Cloud Sneaker - Grey,2026-06-17,1,2299,Jaipur
+ORD1212,CUST712,Classic Slip-On - White,2026-08-07,1,2299,Mumbai
+ORD1213,CUST713,Recycled Runner - Navy,2026-08-15,1,1999,Bengaluru
+ORD1214,CUST714,Cloud Sneaker - Black,2026-05-05,1,1799,Ahmedabad
+ORD1215,CUST715,Recycled Runner - Navy,2026-07-05,1,1999,Hyderabad
+ORD1216,CUST716,Everyday Loafer - Tan,2026-08-19,1,2299,Chennai
+ORD1217,CUST717,Cloud Sneaker - Black,2026-06-25,1,1999,Chennai
+ORD1218,CUST718,Kids Comfort Shoe - Blue,2026-06-17,1,2499,Ahmedabad
+ORD1219,CUST719,Cloud Sneaker - Black,2026-07-17,1,1799,Jaipur
+ORD1220,CUST720,Recycled Runner - Navy,2026-06-09,2,2299,Hyderabad
